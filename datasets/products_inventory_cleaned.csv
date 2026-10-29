@@ -1,0 +1,501 @@
+Product_ID,Product_Name,Category,Unit_Price_INR,Unit_Cost_INR,Current_Stock,Reorder_Level,Reorder_Quantity,Supplier_ID,Lead_Time_Days,Unit_Of_Measure,Store_ID
+P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",126.0,110.31,149,56,145,SUP004,4,Pack,ST04
+P0002,Basmati Rice 5 kg,"Rice, Atta & Staples",540.0,470.83,6,15,30,SUP003,5,Pack,ST04
+P0003,Basmati Rice 10 kg,"Rice, Atta & Staples",1180.0,1006.7,30,6,50,SUP002,4,Pack,ST04
+P0004,Sona Masoori Rice 1 kg,"Rice, Atta & Staples",57.0,51.13,52,40,85,SUP003,5,Pack,ST02
+P0005,Sona Masoori Rice 5 kg,"Rice, Atta & Staples",295.0,257.46,20,15,50,SUP002,4,Pack,ST04
+P0006,Sona Masoori Rice 10 kg,"Rice, Atta & Staples",495.0,446.15,18,13,25,SUP003,5,Pack,ST02
+P0007,Sona Masoori Rice 25 kg,"Rice, Atta & Staples",1230.0,1116.92,24,9,50,SUP001,5,Pack,ST02
+P0008,Idli Rice 1 kg,"Rice, Atta & Staples",53.0,46.0,12,20,50,SUP002,4,Pack,ST04
+P0009,Idli Rice 5 kg,"Rice, Atta & Staples",236.0,204.87,90,45,115,SUP004,4,Pack,ST01
+P0010,Ponni Boiled Rice 1 kg,"Rice, Atta & Staples",60.0,51.36,18,23,55,SUP004,4,Pack,ST03
+P0011,Ponni Boiled Rice 5 kg,"Rice, Atta & Staples",269.0,232.78,27,18,45,SUP004,4,Pack,ST01
+P0012,Ponni Boiled Rice 10 kg,"Rice, Atta & Staples",525.0,453.97,37,19,50,SUP002,4,Pack,ST05
+P0013,Ponni Boiled Rice 25 kg,"Rice, Atta & Staples",1225.0,1082.92,49,8,50,SUP002,4,Pack,ST05
+P0014,Brown Rice 1 kg,"Rice, Atta & Staples",93.0,80.62,24,12,30,SUP004,4,Pack,ST01
+P0015,Brown Rice 5 kg,"Rice, Atta & Staples",450.0,399.37,40,20,50,SUP001,5,Pack,ST05
+P0016,Matta Rice 1 kg,"Rice, Atta & Staples",65.0,56.71,32,23,45,SUP003,5,Pack,ST02
+P0017,Matta Rice 5 kg,"Rice, Atta & Staples",298.0,267.62,43,42,90,SUP001,5,Pack,ST05
+P0018,Poha 500 g,"Rice, Atta & Staples",36.0,30.95,20,32,65,SUP001,5,Pack,ST05
+P0019,Whole Wheat Atta 1 kg,"Rice, Atta & Staples",44.0,38.97,44,56,145,SUP004,4,Pack,ST04
+P0020,Whole Wheat Atta 5 kg,"Rice, Atta & Staples",210.0,180.97,57,24,60,SUP002,4,Pack,ST01
+P0021,Whole Wheat Atta 10 kg,"Rice, Atta & Staples",425.0,363.5,48,15,50,SUP001,5,Pack,ST05
+P0022,Multigrain Atta 1 kg,"Rice, Atta & Staples",67.0,60.29,41,39,100,SUP004,4,Pack,ST01
+P0023,Multigrain Atta 5 kg,"Rice, Atta & Staples",298.0,254.86,14,18,35,SUP003,5,Pack,ST04
+P0024,Maida 500 g,"Rice, Atta & Staples",23.0,20.39,84,67,145,SUP001,5,Pack,ST04
+P0025,Maida 1 kg,"Rice, Atta & Staples",44.0,39.84,74,58,125,SUP001,5,Pack,ST01
+P0026,Maida 5 kg,"Rice, Atta & Staples",198.0,178.76,40,15,50,SUP002,4,Pack,ST05
+P0027,Besan 500 g,"Rice, Atta & Staples",51.0,43.59,52,59,150,SUP004,4,Pack,ST03
+P0028,Besan 1 kg,"Rice, Atta & Staples",93.0,81.41,84,49,125,SUP002,4,Pack,ST05
+P0029,Rava (Sooji) 500 g,"Rice, Atta & Staples",25.0,22.16,25,22,45,SUP003,5,Pack,ST05
+P0030,Rava (Sooji) 1 kg,"Rice, Atta & Staples",51.0,44.64,122,67,175,SUP004,4,Pack,ST04
+P0031,Ragi Flour 500 g,"Rice, Atta & Staples",42.0,38.01,17,10,50,SUP001,5,Pack,ST03
+P0032,Rice Flour 500 g,"Rice, Atta & Staples",28.0,25.34,29,60,130,SUP003,5,Pack,ST01
+P0033,Rice Flour 1 kg,"Rice, Atta & Staples",51.0,43.46,26,23,60,SUP002,4,Pack,ST02
+P0034,Bajra Flour 500 g,"Rice, Atta & Staples",31.0,27.48,30,20,50,SUP002,4,Pack,ST05
+P0035,Bajra Flour 1 kg,"Rice, Atta & Staples",62.0,56.35,22,18,50,SUP001,5,Pack,ST02
+P0036,Jowar Flour 500 g,"Rice, Atta & Staples",32.0,28.17,0,28,70,SUP002,4,Pack,ST04
+P0037,Jowar Flour 1 kg,"Rice, Atta & Staples",61.0,53.65,16,8,50,SUP002,4,Pack,ST05
+P0038,Sugar 1 kg,"Rice, Atta & Staples",43.0,37.38,114,53,135,SUP002,4,Pack,ST04
+P0039,Sugar 5 kg,"Rice, Atta & Staples",190.0,166.81,52,35,90,SUP004,4,Pack,ST01
+P0040,Jaggery 500 g,"Rice, Atta & Staples",35.0,30.36,23,43,90,SUP001,5,Pack,ST02
+P0041,Jaggery 1 kg,"Rice, Atta & Staples",69.0,60.39,26,20,50,SUP004,4,Pack,ST04
+P0042,Iodised Salt 1 kg,"Rice, Atta & Staples",22.0,19.73,46,53,140,SUP004,4,Pack,ST02
+P0043,Rock Salt 500 g,"Rice, Atta & Staples",21.0,17.95,70,33,85,SUP004,4,Pack,ST03
+P0044,Rock Salt 1 kg,"Rice, Atta & Staples",39.0,34.93,9,12,25,SUP003,5,Pack,ST03
+P0045,Vermicelli 200 g,"Rice, Atta & Staples",19.0,16.53,102,65,140,SUP001,5,Pack,ST02
+P0046,Vermicelli 400 g,"Rice, Atta & Staples",35.0,30.37,41,51,110,SUP003,5,Pack,ST03
+P0047,Cornflour 200 g,"Rice, Atta & Staples",20.0,17.86,14,11,25,SUP003,5,Pack,ST01
+P0048,Cornflour 500 g,"Rice, Atta & Staples",48.0,41.94,16,19,50,SUP002,4,Pack,ST02
+P0049,Sabudana 500 g,"Rice, Atta & Staples",42.0,37.37,54,20,50,SUP001,5,Pack,ST03
+P0050,Sabudana 1 kg,"Rice, Atta & Staples",80.0,71.67,18,17,50,SUP001,5,Pack,ST03
+P0051,Toor Dal 1 kg,Pulses & Dals,153.0,131.14,30,29,75,SUP007,4,Pack,ST03
+P0052,Toor Dal 5 kg,Pulses & Dals,770.0,662.82,20,22,45,SUP006,5,Pack,ST01
+P0053,Moong Dal 500 g,Pulses & Dals,59.0,49.92,54,60,130,SUP006,5,Pack,ST01
+P0054,Moong Dal 1 kg,Pulses & Dals,125.0,109.71,18,30,75,SUP005,4,Pack,ST05
+P0055,Moong Dal 5 kg,Pulses & Dals,560.0,476.13,32,15,35,SUP007,4,Pack,ST02
+P0056,Masoor Dal 500 g,Pulses & Dals,48.0,41.86,74,46,100,SUP008,5,Pack,ST03
+P0057,Masoor Dal 1 kg,Pulses & Dals,94.0,83.5,81,41,85,SUP006,5,Pack,ST05
+P0058,Masoor Dal 5 kg,Pulses & Dals,455.0,400.92,1,13,25,SUP008,5,Pack,ST04
+P0059,Urad Dal 500 g,Pulses & Dals,70.0,62.14,141,83,180,SUP008,5,Pack,ST04
+P0060,Urad Dal 1 kg,Pulses & Dals,154.0,134.56,63,34,70,SUP008,5,Pack,ST01
+P0061,Urad Dal 5 kg,Pulses & Dals,630.0,565.37,25,26,55,SUP008,5,Pack,ST05
+P0062,Chana Dal 500 g,Pulses & Dals,57.0,50.93,67,68,175,SUP005,4,Pack,ST02
+P0063,Chana Dal 1 kg,Pulses & Dals,112.0,95.6,67,35,90,SUP007,4,Pack,ST02
+P0064,Chana Dal 5 kg,Pulses & Dals,505.0,435.41,10,13,25,SUP008,5,Pack,ST02
+P0065,Kabuli Chana 500 g,Pulses & Dals,72.0,63.06,18,14,35,SUP005,4,Pack,ST01
+P0066,Kabuli Chana 1 kg,Pulses & Dals,143.0,126.1,29,12,30,SUP007,4,Pack,ST05
+P0067,Kala Chana 500 g,Pulses & Dals,55.0,48.83,60,32,80,SUP007,4,Pack,ST04
+P0068,Kala Chana 1 kg,Pulses & Dals,100.0,84.05,31,25,50,SUP008,5,Pack,ST01
+P0069,Rajma 500 g,Pulses & Dals,79.0,66.38,24,24,60,SUP007,4,Pack,ST05
+P0070,Rajma 1 kg,Pulses & Dals,157.0,137.31,38,30,75,SUP007,4,Pack,ST02
+P0071,Whole Green Moong 500 g,Pulses & Dals,61.0,52.06,69,46,95,SUP008,5,Pack,ST04
+P0072,Whole Green Moong 1 kg,Pulses & Dals,123.0,103.92,39,26,65,SUP007,4,Pack,ST01
+P0073,Dried Green Peas 500 g,Pulses & Dals,46.0,39.09,35,24,60,SUP005,4,Pack,ST05
+P0074,Dried Green Peas 1 kg,Pulses & Dals,80.0,68.83,59,27,55,SUP008,5,Pack,ST03
+P0075,Lobia (Black-eyed Peas) 500 g,Pulses & Dals,62.0,52.68,10,18,35,SUP008,5,Pack,ST01
+P0076,Lobia (Black-eyed Peas) 1 kg,Pulses & Dals,113.0,97.53,29,24,60,SUP005,4,Pack,ST02
+P0077,Horse Gram 500 g,Pulses & Dals,49.0,41.28,34,15,30,SUP008,5,Pack,ST04
+P0078,Horse Gram 1 kg,Pulses & Dals,99.0,87.64,19,14,35,SUP005,4,Pack,ST05
+P0079,Moth Beans 500 g,Pulses & Dals,52.0,44.16,32,17,40,SUP007,4,Pack,ST04
+P0080,Moth Beans 1 kg,Pulses & Dals,110.0,98.78,23,5,25,SUP005,4,Pack,ST03
+P0081,Whole Masoor 500 g,Pulses & Dals,55.0,48.89,33,24,50,SUP006,5,Pack,ST03
+P0082,Whole Masoor 1 kg,Pulses & Dals,99.0,83.88,18,15,35,SUP007,4,Pack,ST04
+P0083,Whole Urad 500 g,Pulses & Dals,68.0,59.74,22,21,45,SUP008,5,Pack,ST05
+P0084,Whole Urad 1 kg,Pulses & Dals,137.0,119.74,52,18,45,SUP007,4,Pack,ST02
+P0085,Soya Chunks 200 g,Pulses & Dals,31.0,27.9,17,44,90,SUP008,5,Pack,ST02
+P0086,Soya Chunks 500 g,Pulses & Dals,69.0,61.99,37,54,140,SUP007,4,Pack,ST01
+P0087,Soya Chunks 1 kg,Pulses & Dals,145.0,125.55,32,21,50,SUP005,4,Pack,ST05
+P0088,Roasted Chana 200 g,Pulses & Dals,28.0,24.14,12,87,190,SUP006,5,Pack,ST04
+P0089,Roasted Chana 500 g,Pulses & Dals,70.0,62.12,40,26,65,SUP005,4,Pack,ST05
+P0090,Pottukadalai (Fried Gram) 200 g,Pulses & Dals,28.0,24.05,26,17,40,SUP005,4,Pack,ST03
+P0091,Pottukadalai (Fried Gram) 500 g,Pulses & Dals,66.0,56.3,11,17,35,SUP008,5,Pack,ST03
+P0092,Raw Peanuts 500 g,Pulses & Dals,61.0,54.16,36,29,75,SUP005,4,Pack,ST04
+P0093,Raw Peanuts 1 kg,Pulses & Dals,113.0,96.21,18,34,85,SUP007,4,Pack,ST01
+P0094,Dalia (Broken Wheat) 500 g,Pulses & Dals,32.0,27.96,64,24,60,SUP007,4,Pack,ST04
+P0095,Dalia (Broken Wheat) 1 kg,Pulses & Dals,59.0,51.44,17,14,30,SUP007,4,Pack,ST02
+P0096,Sunflower Oil 1 L,Edible Oils & Ghee,130.0,113.65,0,35,115,SUP010,3,Bottle,ST02
+P0097,Sunflower Oil 5 L,Edible Oils & Ghee,640.0,552.29,12,14,45,SUP011,3,Bottle,ST02
+P0098,Groundnut Oil 500 ml,Edible Oils & Ghee,95.0,86.43,32,11,30,SUP010,3,Bottle,ST03
+P0099,Groundnut Oil 1 L,Edible Oils & Ghee,191.0,165.22,111,53,115,SUP009,5,Bottle,ST04
+P0100,Groundnut Oil 5 L,Edible Oils & Ghee,875.0,759.91,5,10,18,SUP009,5,Bottle,ST03
+P0101,Coconut Oil 250 ml,Edible Oils & Ghee,67.0,58.38,30,28,90,SUP011,3,Bottle,ST01
+P0102,Coconut Oil 500 ml,Edible Oils & Ghee,137.0,121.44,13,21,65,SUP010,3,Bottle,ST05
+P0103,Coconut Oil 1 L,Edible Oils & Ghee,243.0,211.56,18,22,45,SUP009,5,Bottle,ST04
+P0104,Sesame Oil 250 ml,Edible Oils & Ghee,107.0,98.38,66,33,85,SUP012,4,Bottle,ST02
+P0105,Sesame Oil 500 ml,Edible Oils & Ghee,188.0,170.11,17,17,50,SUP010,3,Bottle,ST03
+P0106,Sesame Oil 1 L,Edible Oils & Ghee,385.0,333.09,35,15,30,SUP009,5,Bottle,ST04
+P0107,Mustard Oil 500 ml,Edible Oils & Ghee,89.0,78.98,36,27,65,SUP012,4,Bottle,ST02
+P0108,Mustard Oil 1 L,Edible Oils & Ghee,164.0,145.28,0,11,25,SUP012,4,Bottle,ST04
+P0109,Mustard Oil 5 L,Edible Oils & Ghee,790.0,691.67,24,8,25,SUP012,4,Bottle,ST03
+P0110,Rice Bran Oil 1 L,Edible Oils & Ghee,137.0,121.05,1,14,40,SUP011,3,Bottle,ST03
+P0111,Rice Bran Oil 5 L,Edible Oils & Ghee,640.0,570.33,14,9,25,SUP010,3,Bottle,ST05
+P0112,Olive Oil 250 ml,Edible Oils & Ghee,196.0,174.58,28,13,25,SUP009,5,Bottle,ST03
+P0113,Olive Oil 500 ml,Edible Oils & Ghee,385.0,347.46,18,10,18,SUP009,5,Bottle,ST05
+P0114,Vegetable Oil 1 L,Edible Oils & Ghee,119.0,108.64,52,17,55,SUP011,3,Bottle,ST02
+P0115,Vegetable Oil 5 L,Edible Oils & Ghee,570.0,504.91,9,4,12,SUP011,3,Bottle,ST03
+P0116,Soybean Oil 1 L,Edible Oils & Ghee,130.0,118.7,23,17,50,SUP010,3,Bottle,ST05
+P0117,Soybean Oil 5 L,Edible Oils & Ghee,580.0,510.26,10,8,20,SUP011,3,Bottle,ST01
+P0118,Cold-Pressed Groundnut Oil 500 ml,Edible Oils & Ghee,140.0,123.19,24,13,25,SUP009,5,Bottle,ST01
+P0119,Cold-Pressed Groundnut Oil 1 L,Edible Oils & Ghee,240.0,215.89,15,14,35,SUP012,4,Bottle,ST02
+P0120,Cold-Pressed Coconut Oil 500 ml,Edible Oils & Ghee,182.0,162.69,35,12,35,SUP010,3,Bottle,ST03
+P0121,Cold-Pressed Coconut Oil 1 L,Edible Oils & Ghee,310.0,271.8,10,10,30,SUP010,3,Bottle,ST04
+P0122,Kachi Ghani Mustard Oil 500 ml,Edible Oils & Ghee,94.0,83.61,53,31,65,SUP009,5,Bottle,ST04
+P0123,Kachi Ghani Mustard Oil 1 L,Edible Oils & Ghee,183.0,162.01,25,9,25,SUP011,3,Bottle,ST01
+P0124,Cow Ghee 200 g,Edible Oils & Ghee,141.0,129.54,122,46,115,SUP012,4,Pack,ST03
+P0125,Cow Ghee 500 g,Edible Oils & Ghee,335.0,290.49,60,38,120,SUP010,3,Pack,ST01
+P0126,Cow Ghee 1 kg,Edible Oils & Ghee,650.0,585.97,10,7,25,SUP010,3,Pack,ST03
+P0127,Buffalo Ghee 500 g,Edible Oils & Ghee,290.0,251.28,18,25,50,SUP009,5,Pack,ST04
+P0128,Buffalo Ghee 1 kg,Edible Oils & Ghee,560.0,491.08,39,16,35,SUP012,4,Pack,ST03
+P0129,Vanaspati 500 g,Edible Oils & Ghee,69.0,61.4,53,24,75,SUP010,3,Pack,ST05
+P0130,Vanaspati 1 kg,Edible Oils & Ghee,130.0,112.37,2,10,17,SUP009,5,Pack,ST05
+P0131,Turmeric Powder 200 g,Spices & Masalas,50.0,34.2,215,71,230,SUP014,5,Pack,ST01
+P0132,Turmeric Powder 500 g,Spices & Masalas,111.0,79.16,70,24,75,SUP014,5,Pack,ST01
+P0133,Red Chilli Powder 200 g,Spices & Masalas,70.0,46.54,79,53,145,SUP015,6,Pack,ST01
+P0134,Red Chilli Powder 500 g,Spices & Masalas,176.0,117.29,75,42,160,SUP016,4,Pack,ST03
+P0135,Coriander Powder 200 g,Spices & Masalas,39.0,28.63,126,72,195,SUP013,6,Pack,ST04
+P0136,Coriander Powder 500 g,Spices & Masalas,95.0,68.23,81,172,480,SUP013,6,Pack,ST04
+P0137,Cumin Seeds (Jeera) 100 g,Spices & Masalas,56.0,39.51,35,42,115,SUP015,6,Pack,ST05
+P0138,Cumin Seeds (Jeera) 500 g,Spices & Masalas,264.0,186.7,183,99,275,SUP015,6,Pack,ST01
+P0139,Black Pepper 50 g,Spices & Masalas,50.0,36.13,140,111,310,SUP015,6,Pack,ST04
+P0140,Black Pepper 100 g,Spices & Masalas,90.0,60.0,76,23,80,SUP016,4,Pack,ST03
+P0141,Black Pepper 200 g,Spices & Masalas,168.0,124.19,143,84,230,SUP015,6,Pack,ST02
+P0142,Mustard Seeds 100 g,Spices & Masalas,15.0,10.89,81,62,170,SUP013,6,Pack,ST05
+P0143,Mustard Seeds 500 g,Spices & Masalas,68.0,45.94,95,53,170,SUP014,5,Pack,ST02
+P0144,Fennel Seeds (Saunf) 100 g,Spices & Masalas,38.0,26.95,34,24,90,SUP016,4,Pack,ST04
+P0145,Fennel Seeds (Saunf) 200 g,Spices & Masalas,79.0,52.52,44,16,40,SUP013,6,Pack,ST04
+P0146,Fennel Seeds (Saunf) 500 g,Spices & Masalas,172.0,126.25,185,60,235,SUP016,4,Pack,ST04
+P0147,Cardamom (Elaichi) 50 g,Spices & Masalas,204.0,142.38,43,48,150,SUP014,5,Pack,ST01
+P0148,Cardamom (Elaichi) 100 g,Spices & Masalas,365.0,251.35,82,34,125,SUP016,4,Pack,ST03
+P0149,Cloves 50 g,Spices & Masalas,83.0,59.13,114,49,155,SUP014,5,Pack,ST05
+P0150,Cloves 100 g,Spices & Masalas,157.0,109.76,26,16,50,SUP014,5,Pack,ST01
+P0151,Cinnamon Sticks 50 g,Spices & Masalas,34.0,26.03,212,80,220,SUP015,6,Pack,ST01
+P0152,Garam Masala 50 g,Spices & Masalas,42.0,29.94,217,136,445,SUP014,5,Pack,ST05
+P0153,Garam Masala 100 g,Spices & Masalas,84.0,61.54,197,80,315,SUP016,4,Pack,ST01
+P0154,Garam Masala 200 g,Spices & Masalas,156.0,110.95,71,92,255,SUP013,6,Pack,ST01
+P0155,Sambar Powder 100 g,Spices & Masalas,43.0,29.14,91,72,195,SUP013,6,Pack,ST05
+P0156,Sambar Powder 200 g,Spices & Masalas,81.0,56.93,166,81,315,SUP016,4,Pack,ST01
+P0157,Sambar Powder 500 g,Spices & Masalas,200.0,150.97,18,28,75,SUP015,6,Pack,ST02
+P0158,Rasam Powder 100 g,Spices & Masalas,39.0,26.36,103,49,130,SUP013,6,Pack,ST04
+P0159,Rasam Powder 200 g,Spices & Masalas,77.0,57.92,64,23,70,SUP014,5,Pack,ST03
+P0160,Rasam Powder 500 g,Spices & Masalas,187.0,137.62,60,56,180,SUP014,5,Pack,ST05
+P0161,Chicken Masala 50 g,Spices & Masalas,30.0,21.26,31,13,45,SUP016,4,Pack,ST03
+P0162,Chicken Masala 100 g,Spices & Masalas,64.0,47.79,20,46,125,SUP015,6,Pack,ST03
+P0163,Biryani Masala 50 g,Spices & Masalas,36.0,27.1,136,152,425,SUP013,6,Pack,ST04
+P0164,Biryani Masala 100 g,Spices & Masalas,68.0,46.61,54,80,260,SUP014,5,Pack,ST04
+P0165,Biryani Masala 200 g,Spices & Masalas,149.0,100.29,21,48,130,SUP013,6,Pack,ST01
+P0166,Chaat Masala 50 g,Spices & Masalas,30.0,21.97,97,57,155,SUP015,6,Pack,ST01
+P0167,Chaat Masala 100 g,Spices & Masalas,58.0,41.56,43,23,85,SUP016,4,Pack,ST02
+P0168,Chaat Masala 200 g,Spices & Masalas,119.0,80.56,48,17,60,SUP016,4,Pack,ST05
+P0169,Pav Bhaji Masala 50 g,Spices & Masalas,31.0,23.41,82,45,140,SUP014,5,Pack,ST04
+P0170,Pav Bhaji Masala 100 g,Spices & Masalas,53.0,37.32,11,31,115,SUP016,4,Pack,ST01
+P0171,Pav Bhaji Masala 200 g,Spices & Masalas,107.0,80.46,44,22,55,SUP013,6,Pack,ST02
+P0172,Kitchen King Masala 50 g,Spices & Masalas,32.0,22.27,161,61,235,SUP016,4,Pack,ST01
+P0173,Kitchen King Masala 100 g,Spices & Masalas,63.0,41.64,152,56,150,SUP015,6,Pack,ST01
+P0174,Kitchen King Masala 200 g,Spices & Masalas,114.0,84.39,60,53,200,SUP016,4,Pack,ST01
+P0175,Hing (Asafoetida) 100 g,Spices & Masalas,345.0,237.64,118,40,105,SUP013,6,Pack,ST02
+P0176,Fenugreek Seeds (Methi) 100 g,Spices & Masalas,23.0,15.93,27,33,105,SUP014,5,Pack,ST03
+P0177,Tamarind 500 g,Spices & Masalas,105.0,81.27,47,18,50,SUP014,5,Pack,ST05
+P0178,Tamarind 1 kg,Spices & Masalas,217.0,163.21,39,19,50,SUP015,6,Pack,ST04
+P0179,Dry Red Chillies 100 g,Spices & Masalas,44.0,30.76,12,33,125,SUP016,4,Pack,ST03
+P0180,Dry Red Chillies 200 g,Spices & Masalas,85.0,59.65,100,92,255,SUP013,6,Pack,ST02
+P0181,Dry Red Chillies 500 g,Spices & Masalas,197.0,139.62,134,38,145,SUP016,4,Pack,ST03
+P0182,Kasuri Methi 100 g,Spices & Masalas,69.0,49.11,192,88,245,SUP013,6,Pack,ST02
+P0183,Kasuri Methi 200 g,Spices & Masalas,130.0,101.03,45,47,125,SUP015,6,Pack,ST04
+P0184,Ajwain 100 g,Spices & Masalas,52.0,40.16,91,37,115,SUP014,5,Pack,ST01
+P0185,Sesame Seeds (Til) 100 g,Spices & Masalas,27.0,20.53,128,82,265,SUP014,5,Pack,ST01
+P0186,Sesame Seeds (Til) 200 g,Spices & Masalas,47.0,33.72,66,34,90,SUP015,6,Pack,ST01
+P0187,Sesame Seeds (Til) 500 g,Spices & Masalas,128.0,97.81,17,22,65,SUP014,5,Pack,ST03
+P0188,Poppy Seeds (Khus Khus) 50 g,Spices & Masalas,85.0,63.16,15,25,90,SUP016,4,Pack,ST02
+P0189,Poppy Seeds (Khus Khus) 100 g,Spices & Masalas,155.0,103.98,50,25,75,SUP014,5,Pack,ST04
+P0190,Bay Leaf 100 g,Spices & Masalas,47.0,32.98,43,32,85,SUP013,6,Pack,ST03
+P0191,Full Cream Milk 500 ml,Dairy & Eggs,36.0,32.98,27,49,45,SUP017,1,Pouch,ST03
+P0192,Full Cream Milk 1 L,Dairy & Eggs,66.0,59.48,16,20,17,SUP017,1,Pouch,ST04
+P0193,Toned Milk 500 ml,Dairy & Eggs,28.0,25.22,17,21,20,SUP019,1,Pouch,ST03
+P0194,Toned Milk 1 L,Dairy & Eggs,58.0,50.23,66,84,75,SUP019,1,Pouch,ST03
+P0195,Double Toned Milk 500 ml,Dairy & Eggs,28.0,25.0,32,31,30,SUP020,1,Pouch,ST05
+P0196,Double Toned Milk 1 L,Dairy & Eggs,55.0,49.64,17,51,30,SUP018,2,Pouch,ST04
+P0197,Fresh Cow Milk 500 ml,Dairy & Eggs,32.0,26.85,23,21,20,SUP019,1,Pouch,ST03
+P0198,Fresh Cow Milk 1 L,Dairy & Eggs,62.0,50.97,18,17,14,SUP017,1,Pouch,ST01
+P0199,UHT Long-Life Milk 1 L,Dairy & Eggs,76.0,67.56,46,16,55,SUP017,1,Carton,ST05
+P0200,Curd (Dahi) 200 g,Dairy & Eggs,17.0,15.51,110,85,140,SUP017,1,Pack,ST05
+P0201,Curd (Dahi) 400 g,Dairy & Eggs,35.0,31.72,37,87,145,SUP017,1,Pack,ST05
+P0202,Curd (Dahi) 500 g,Dairy & Eggs,40.0,36.58,25,25,40,SUP017,1,Pack,ST03
+P0203,Curd (Dahi) 1 kg,Dairy & Eggs,80.0,66.33,27,41,65,SUP017,1,Pack,ST03
+P0204,Greek Yogurt 100 g,Dairy & Eggs,26.0,23.69,25,13,35,SUP019,1,Pack,ST01
+P0205,Greek Yogurt 200 g,Dairy & Eggs,47.0,43.19,13,27,50,SUP018,2,Pack,ST03
+P0206,Flavoured Yogurt 100 g,Dairy & Eggs,15.0,13.1,158,156,295,SUP018,2,Pack,ST04
+P0207,Flavoured Yogurt 200 g,Dairy & Eggs,25.0,21.69,21,13,35,SUP019,1,Pack,ST02
+P0208,Sweet Lassi 200 ml,Dairy & Eggs,20.0,17.64,137,55,185,SUP020,1,Pack,ST02
+P0209,Buttermilk (Chaas) 200 ml,Dairy & Eggs,9.0,7.48,55,112,145,SUP018,2,Pack,ST03
+P0210,Buttermilk (Chaas) 500 ml,Dairy & Eggs,21.0,18.98,5,13,25,SUP017,1,Pack,ST02
+P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,40.0,35.39,39,17,35,SUP019,1,Pack,ST02
+P0212,Paneer 200 g,Dairy & Eggs,76.0,63.17,73,39,90,SUP017,1,Pack,ST04
+P0213,Paneer 500 g,Dairy & Eggs,182.0,157.01,38,25,55,SUP019,1,Pack,ST03
+P0214,Butter 200 g,Dairy & Eggs,115.0,101.49,295,71,270,SUP020,1,Pack,ST04
+P0215,Butter 500 g,Dairy & Eggs,258.0,233.26,106,70,165,SUP018,2,Pack,ST04
+P0216,Cheese Slices 100 g,Dairy & Eggs,61.0,51.49,95,28,105,SUP019,1,Pack,ST02
+P0217,Cheese Slices 200 g,Dairy & Eggs,122.0,107.9,136,44,165,SUP019,1,Pack,ST01
+P0218,Processed Cheese Block 200 g,Dairy & Eggs,118.0,99.38,17,53,120,SUP018,2,Pack,ST05
+P0219,Processed Cheese Block 400 g,Dairy & Eggs,227.0,188.61,29,14,30,SUP018,2,Pack,ST01
+P0220,Mozzarella Cheese 200 g,Dairy & Eggs,97.0,80.34,64,25,95,SUP017,1,Pack,ST01
+P0221,Cheese Spread 200 g,Dairy & Eggs,89.0,74.2,9,11,40,SUP020,1,Pack,ST02
+P0222,Fresh Cream 200 ml,Dairy & Eggs,60.0,54.77,36,30,55,SUP018,2,Pack,ST03
+P0223,Condensed Milk 400 g,Dairy & Eggs,105.0,92.45,13,4,20,SUP020,1,Pack,ST04
+P0224,Milk Powder 500 g,Dairy & Eggs,288.0,264.34,30,13,45,SUP017,1,Pack,ST01
+P0225,Milk Powder 1 kg,Dairy & Eggs,530.0,482.01,31,16,35,SUP018,2,Pack,ST04
+P0226,Skimmed Milk Powder 200 g,Dairy & Eggs,107.0,95.52,70,19,70,SUP019,1,Pack,ST02
+P0227,Skimmed Milk Powder 500 g,Dairy & Eggs,242.0,207.65,12,10,35,SUP017,1,Pack,ST01
+P0228,Flavoured Milk 200 ml,Dairy & Eggs,22.0,19.82,28,51,185,SUP020,1,Bottle,ST05
+P0229,Soy Milk 200 ml,Dairy & Eggs,25.0,21.53,55,13,45,SUP017,1,Carton,ST01
+P0230,Soy Milk 1 L,Dairy & Eggs,106.0,93.18,27,13,45,SUP017,1,Carton,ST02
+P0231,Vanilla Ice Cream 100 ml,Dairy & Eggs,26.0,22.12,48,86,185,SUP018,2,Pack,ST05
+P0232,Vanilla Ice Cream 500 ml,Dairy & Eggs,118.0,103.91,9,12,40,SUP017,1,Pack,ST03
+P0233,Vanilla Ice Cream 1 L,Dairy & Eggs,218.0,195.84,18,6,17,SUP017,1,Pack,ST04
+P0234,Chocolate Ice Cream 100 ml,Dairy & Eggs,26.0,21.9,17,37,125,SUP019,1,Pack,ST01
+P0235,Chocolate Ice Cream 500 ml,Dairy & Eggs,128.0,111.54,5,18,60,SUP019,1,Pack,ST05
+P0236,Chocolate Ice Cream 1 L,Dairy & Eggs,217.0,187.59,18,19,40,SUP018,2,Pack,ST05
+P0237,White Eggs 6 pcs,Dairy & Eggs,43.0,36.87,32,11,40,SUP019,1,Pack,ST02
+P0238,White Eggs 12 pcs,Dairy & Eggs,77.0,63.84,45,22,50,SUP018,2,Pack,ST05
+P0239,White Eggs 30 pcs,Dairy & Eggs,202.0,169.97,24,10,35,SUP019,1,Pack,ST02
+P0240,Brown Eggs 12 pcs,Dairy & Eggs,119.0,106.78,16,11,25,SUP018,2,Pack,ST02
+P0241,Banana (Robusta) (Loose),Fruits & Vegetables,59.0,44.99,10,23,25,SUP024,1,Kg,ST02
+P0242,Banana (Elaichi) (Loose),Fruits & Vegetables,79.0,54.66,39,26,30,SUP024,1,Kg,ST04
+P0243,Apple (Shimla) (Loose),Fruits & Vegetables,187.0,122.0,12,15,25,SUP022,1,Kg,ST03
+P0244,Orange (Nagpur) (Loose),Fruits & Vegetables,87.0,63.8,24,14,20,SUP021,1,Kg,ST04
+P0245,Mosambi (Loose),Fruits & Vegetables,87.0,57.49,9,25,40,SUP022,1,Kg,ST02
+P0246,Pomegranate (Loose),Fruits & Vegetables,187.0,125.28,60,45,70,SUP021,1,Kg,ST02
+P0247,Grapes (Green) (Loose),Fruits & Vegetables,106.0,75.3,15,10,13,SUP022,1,Kg,ST04
+P0248,Grapes (Black) (Loose),Fruits & Vegetables,128.0,98.84,8,10,13,SUP021,1,Kg,ST03
+P0249,Papaya (Loose),Fruits & Vegetables,46.0,30.91,16,19,19,SUP024,1,Kg,ST02
+P0250,Watermelon (Loose),Fruits & Vegetables,27.0,17.71,18,39,55,SUP024,1,Kg,ST04
+P0251,Muskmelon (Loose),Fruits & Vegetables,45.0,34.48,19,16,25,SUP024,1,Kg,ST01
+P0252,Pineapple (Loose),Fruits & Vegetables,52.0,38.25,11,9,13,SUP021,1,Kg,ST01
+P0253,Guava (Loose),Fruits & Vegetables,68.0,51.85,27,17,20,SUP024,1,Kg,ST01
+P0254,Mango (Alphonso) (Loose),Fruits & Vegetables,380.0,262.97,8,7,7,SUP022,1,Kg,ST02
+P0255,Mango (Totapuri) (Loose),Fruits & Vegetables,97.0,74.27,10,21,25,SUP022,1,Kg,ST03
+P0256,Mango (Banganapalli) (Loose),Fruits & Vegetables,116.0,87.65,13,14,8,SUP023,2,Kg,ST03
+P0257,Sapota (Chikoo) (Loose),Fruits & Vegetables,88.0,60.27,13,10,7,SUP023,2,Kg,ST05
+P0258,Lemon (Loose),Fruits & Vegetables,115.0,85.65,28,23,35,SUP024,1,Kg,ST05
+P0259,Coconut (Whole) (Loose),Fruits & Vegetables,35.0,27.07,26,28,45,SUP024,1,Piece,ST02
+P0260,Pear (Loose),Fruits & Vegetables,147.0,105.16,6,5,6,SUP022,1,Kg,ST05
+P0261,Tomato (Loose),Fruits & Vegetables,37.0,26.42,73,91,100,SUP021,1,Kg,ST01
+P0262,Onion (Loose),Fruits & Vegetables,39.0,27.84,71,44,70,SUP024,1,Kg,ST05
+P0263,Potato (Loose),Fruits & Vegetables,34.0,25.98,0,56,55,SUP023,2,Kg,ST02
+P0264,Carrot (Loose),Fruits & Vegetables,52.0,36.35,8,12,17,SUP022,1,Kg,ST05
+P0265,French Beans (Loose),Fruits & Vegetables,73.0,47.5,16,17,18,SUP021,1,Kg,ST01
+P0266,Cabbage (Loose),Fruits & Vegetables,32.0,22.92,17,14,25,SUP021,1,Kg,ST01
+P0267,Cauliflower (Loose),Fruits & Vegetables,44.0,30.75,26,19,25,SUP021,1,Kg,ST04
+P0268,Brinjal (Loose),Fruits & Vegetables,46.0,33.41,40,27,35,SUP022,1,Kg,ST04
+P0269,Ladies Finger (Okra) (Loose),Fruits & Vegetables,58.0,37.72,41,29,35,SUP022,1,Kg,ST05
+P0270,Capsicum (Green) (Loose),Fruits & Vegetables,91.0,64.71,25,17,25,SUP024,1,Kg,ST03
+P0271,Green Chilli (Loose),Fruits & Vegetables,92.0,63.12,5,22,30,SUP021,1,Kg,ST02
+P0272,Cucumber (Loose),Fruits & Vegetables,39.0,25.38,7,16,11,SUP023,2,Kg,ST03
+P0273,Ridge Gourd (Loose),Fruits & Vegetables,53.0,38.24,42,25,35,SUP024,1,Kg,ST01
+P0274,Bitter Gourd (Loose),Fruits & Vegetables,56.0,38.34,6,9,10,SUP024,1,Kg,ST03
+P0275,Drumstick (Loose),Fruits & Vegetables,93.0,61.29,12,6,6,SUP022,1,Kg,ST05
+P0276,Beetroot (Loose),Fruits & Vegetables,49.0,34.97,27,13,18,SUP022,1,Kg,ST03
+P0277,Radish (Loose),Fruits & Vegetables,34.0,22.44,20,13,19,SUP022,1,Kg,ST02
+P0278,Pumpkin (Loose),Fruits & Vegetables,29.0,20.84,12,14,19,SUP021,1,Kg,ST02
+P0279,Raw Banana (Loose),Fruits & Vegetables,46.0,30.85,25,31,40,SUP024,1,Kg,ST04
+P0280,Ginger (Loose),Fruits & Vegetables,163.0,124.85,21,17,25,SUP021,1,Kg,ST04
+P0281,Garlic (Loose),Fruits & Vegetables,270.0,207.94,14,9,12,SUP021,1,Kg,ST05
+P0282,Sweet Potato (Loose),Fruits & Vegetables,54.0,36.03,21,20,17,SUP023,2,Kg,ST01
+P0283,Green Peas (Loose),Fruits & Vegetables,125.0,85.79,2,10,10,SUP021,1,Kg,ST03
+P0284,Spring Onion (Loose),Fruits & Vegetables,59.0,44.27,5,14,12,SUP021,1,Kg,ST01
+P0285,Cluster Beans (Loose),Fruits & Vegetables,71.0,49.23,14,11,10,SUP021,1,Kg,ST01
+P0286,Sweet Corn (Loose),Fruits & Vegetables,19.0,13.38,9,11,9,SUP024,1,Piece,ST02
+P0287,Broccoli (Loose),Fruits & Vegetables,121.0,87.77,8,6,5,SUP024,1,Kg,ST05
+P0288,Button Mushrooms 200 g,Fruits & Vegetables,63.0,48.4,32,31,30,SUP021,1,Pack,ST02
+P0289,Button Mushrooms 400 g,Fruits & Vegetables,116.0,90.45,25,20,17,SUP021,1,Pack,ST05
+P0290,Spinach (Palak) 500 g,Fruits & Vegetables,21.0,15.63,20,19,15,SUP021,1,Pack,ST02
+P0291,Coriander Leaves 100 g,Fruits & Vegetables,9.0,6.7,29,50,45,SUP024,1,Pack,ST05
+P0292,Coriander Leaves 250 g,Fruits & Vegetables,21.0,15.94,58,75,40,SUP023,2,Pack,ST02
+P0293,Curry Leaves 50 g,Fruits & Vegetables,6.0,4.17,73,59,55,SUP021,1,Pack,ST02
+P0294,Curry Leaves 100 g,Fruits & Vegetables,11.0,8.48,55,36,35,SUP022,1,Pack,ST04
+P0295,Mint Leaves 100 g,Fruits & Vegetables,10.0,7.53,7,16,12,SUP022,1,Pack,ST04
+P0296,Mint Leaves 250 g,Fruits & Vegetables,25.0,17.73,8,10,8,SUP021,1,Pack,ST05
+P0297,Methi Leaves 250 g,Fruits & Vegetables,17.0,12.26,26,27,25,SUP022,1,Pack,ST05
+P0298,Methi Leaves 500 g,Fruits & Vegetables,32.0,21.44,16,16,8,SUP023,2,Pack,ST02
+P0299,Cherry Tomato 250 g,Fruits & Vegetables,67.0,44.85,9,6,6,SUP024,1,Pack,ST05
+P0300,Cherry Tomato 500 g,Fruits & Vegetables,137.0,98.97,6,10,6,SUP023,2,Pack,ST03
+P0301,White Bread 400 g,Bakery & Snacks,40.0,26.29,66,40,45,SUP026,1,Pack,ST04
+P0302,Multigrain Bread 400 g,Bakery & Snacks,59.0,47.17,15,14,20,SUP028,1,Pack,ST01
+P0303,Milk Bread 400 g,Bakery & Snacks,48.0,33.42,43,29,35,SUP025,1,Pack,ST02
+P0304,Sandwich Bread 400 g,Bakery & Snacks,42.0,29.38,5,16,16,SUP025,1,Pack,ST04
+P0305,Sandwich Bread 700 g,Bakery & Snacks,69.0,46.81,19,13,13,SUP025,1,Pack,ST05
+P0306,Burger Buns 4 pcs,Bakery & Snacks,35.0,23.31,11,11,12,SUP026,1,Pack,ST03
+P0307,Burger Buns 6 pcs,Bakery & Snacks,58.0,41.66,27,17,20,SUP028,1,Pack,ST04
+P0308,Plum Cake 250 g,Bakery & Snacks,102.0,74.74,39,8,40,SUP028,1,Pack,ST03
+P0309,Plum Cake 500 g,Bakery & Snacks,199.0,152.14,13,21,75,SUP027,2,Pack,ST02
+P0310,Cupcakes 4 pcs,Bakery & Snacks,60.0,40.9,9,12,10,SUP027,2,Pack,ST02
+P0311,Muffins 2 pcs,Bakery & Snacks,52.0,36.47,9,9,12,SUP025,1,Pack,ST05
+P0312,Muffins 4 pcs,Bakery & Snacks,102.0,81.12,12,9,12,SUP025,1,Pack,ST05
+P0313,Croissant 2 pcs,Bakery & Snacks,71.0,47.93,15,18,20,SUP028,1,Pack,ST02
+P0314,Glucose Biscuits 100 g,Bakery & Snacks,11.0,8.07,64,263,705,SUP032,4,Pack,ST05
+P0315,Marie Biscuits 250 g,Bakery & Snacks,28.0,19.85,211,93,205,SUP031,5,Pack,ST04
+P0316,Marie Biscuits 500 g,Bakery & Snacks,50.0,35.2,86,93,175,SUP029,6,Pack,ST05
+P0317,Cream Biscuits 200 g,Bakery & Snacks,35.0,27.91,379,113,380,SUP030,3,Pack,ST01
+P0318,Digestive Biscuits 200 g,Bakery & Snacks,42.0,31.5,102,58,105,SUP029,6,Pack,ST03
+P0319,Digestive Biscuits 400 g,Bakery & Snacks,83.0,57.89,63,28,70,SUP032,4,Pack,ST01
+P0320,Butter Cookies 400 g,Bakery & Snacks,133.0,97.4,51,20,65,SUP030,3,Pack,ST03
+P0321,Rusk 200 g,Bakery & Snacks,32.0,21.59,84,71,235,SUP030,3,Pack,ST02
+P0322,Rusk 400 g,Bakery & Snacks,62.0,40.47,73,64,135,SUP031,5,Pack,ST04
+P0323,Aloo Bhujia 200 g,Bakery & Snacks,46.0,32.18,218,87,190,SUP031,5,Pack,ST03
+P0324,Aloo Bhujia 1 kg,Bakery & Snacks,229.0,162.75,3,48,100,SUP031,5,Pack,ST04
+P0325,Bhel Mix 200 g,Bakery & Snacks,46.0,35.58,67,57,105,SUP029,6,Pack,ST05
+P0326,Bhel Mix 400 g,Bakery & Snacks,85.0,67.12,11,30,75,SUP032,4,Pack,ST04
+P0327,Mixture (Namkeen) 200 g,Bakery & Snacks,48.0,32.58,82,150,280,SUP029,6,Pack,ST05
+P0328,Mixture (Namkeen) 400 g,Bakery & Snacks,104.0,68.39,75,61,130,SUP031,5,Pack,ST03
+P0329,Mixture (Namkeen) 1 kg,Bakery & Snacks,234.0,153.16,38,50,130,SUP032,4,Pack,ST02
+P0330,Sev 200 g,Bakery & Snacks,47.0,34.82,40,25,60,SUP032,4,Pack,ST03
+P0331,Sev 400 g,Bakery & Snacks,90.0,63.01,34,52,170,SUP030,3,Pack,ST05
+P0332,Banana Chips 200 g,Bakery & Snacks,79.0,58.86,176,68,175,SUP032,4,Pack,ST02
+P0333,Potato Chips (Salted) 50 g,Bakery & Snacks,25.0,17.74,92,255,560,SUP031,5,Pack,ST03
+P0334,Potato Chips (Salted) 100 g,Bakery & Snacks,45.0,32.48,257,209,390,SUP029,6,Pack,ST02
+P0335,Potato Chips (Salted) 200 g,Bakery & Snacks,91.0,70.87,247,122,320,SUP032,4,Pack,ST04
+P0336,Potato Chips (Masala) 50 g,Bakery & Snacks,25.0,17.13,96,227,425,SUP029,6,Pack,ST04
+P0337,Potato Chips (Masala) 200 g,Bakery & Snacks,87.0,56.92,32,59,105,SUP029,6,Pack,ST02
+P0338,Popcorn 100 g,Bakery & Snacks,34.0,23.9,154,49,160,SUP030,3,Pack,ST04
+P0339,Murukku 200 g,Bakery & Snacks,69.0,51.47,57,46,150,SUP030,3,Pack,ST01
+P0340,Murukku 400 g,Bakery & Snacks,130.0,94.23,24,14,35,SUP032,4,Pack,ST03
+P0341,Khakhra 200 g,Bakery & Snacks,62.0,46.61,95,44,110,SUP032,4,Pack,ST04
+P0342,Khakhra 400 g,Bakery & Snacks,116.0,80.28,83,44,95,SUP031,5,Pack,ST02
+P0343,Roasted Makhana 100 g,Bakery & Snacks,105.0,68.8,101,43,140,SUP030,3,Pack,ST01
+P0344,Roasted Makhana 200 g,Bakery & Snacks,203.0,140.46,73,20,65,SUP030,3,Pack,ST01
+P0345,Peanut Chikki 100 g,Bakery & Snacks,34.0,26.51,9,26,80,SUP030,3,Pack,ST03
+P0346,Peanut Chikki 200 g,Bakery & Snacks,66.0,44.92,82,53,95,SUP029,6,Pack,ST04
+P0347,Almonds 100 g,Bakery & Snacks,96.0,66.14,71,32,100,SUP030,3,Pack,ST05
+P0348,Almonds 250 g,Bakery & Snacks,238.0,163.76,44,32,65,SUP031,5,Pack,ST02
+P0349,Almonds 500 g,Bakery & Snacks,500.0,348.37,49,17,40,SUP032,4,Pack,ST02
+P0350,Cashews 250 g,Bakery & Snacks,261.0,192.61,185,133,245,SUP029,6,Pack,ST02
+P0351,Cashews 500 g,Bakery & Snacks,500.0,373.53,69,22,65,SUP030,3,Pack,ST01
+P0352,Raisins 100 g,Bakery & Snacks,44.0,33.57,16,66,170,SUP032,4,Pack,ST02
+P0353,Raisins 250 g,Bakery & Snacks,108.0,71.44,70,39,70,SUP029,6,Pack,ST04
+P0354,Raisins 500 g,Bakery & Snacks,202.0,156.51,66,19,60,SUP030,3,Pack,ST05
+P0355,Dates 250 g,Bakery & Snacks,96.0,74.67,65,45,80,SUP029,6,Pack,ST04
+P0356,Dates 500 g,Bakery & Snacks,188.0,126.27,3,35,60,SUP029,6,Pack,ST02
+P0357,Soan Papdi 500 g,Bakery & Snacks,216.0,152.84,23,57,120,SUP031,5,Pack,ST04
+P0358,Kaju Katli 500 g,Bakery & Snacks,485.0,339.83,21,18,40,SUP032,4,Pack,ST03
+P0359,Gulab Jamun (Tin) 500 g,Bakery & Snacks,170.0,115.75,7,22,45,SUP031,5,Pack,ST03
+P0360,Gulab Jamun (Tin) 1 kg,Bakery & Snacks,282.0,212.69,55,30,50,SUP029,6,Pack,ST01
+P0361,Tea Dust 250 g,Beverages,101.0,85.36,97,37,85,SUP035,3,Pack,ST01
+P0362,Tea Dust 500 g,Beverages,191.0,160.95,37,39,120,SUP034,2,Pack,ST04
+P0363,Tea Dust 1 kg,Beverages,380.0,309.55,51,56,130,SUP036,3,Pack,ST05
+P0364,Assam Tea 250 g,Beverages,142.0,105.4,32,40,90,SUP035,3,Pack,ST05
+P0365,Assam Tea 500 g,Beverages,270.0,218.67,17,11,25,SUP035,3,Pack,ST01
+P0366,Masala Tea 250 g,Beverages,133.0,109.59,68,58,135,SUP035,3,Pack,ST05
+P0367,Masala Tea 500 g,Beverages,239.0,187.35,43,19,55,SUP034,2,Pack,ST01
+P0368,Green Tea (Loose Leaf) 100 g,Beverages,100.0,84.86,7,23,50,SUP036,3,Pack,ST01
+P0369,Green Tea (Loose Leaf) 250 g,Beverages,244.0,205.03,31,12,35,SUP034,2,Pack,ST02
+P0370,Instant Coffee 100 g,Beverages,163.0,123.83,129,64,150,SUP035,3,Pack,ST05
+P0371,Instant Coffee 200 g,Beverages,310.0,260.91,104,32,100,SUP034,2,Pack,ST05
+P0372,Filter Coffee Powder 200 g,Beverages,152.0,114.76,84,23,70,SUP033,2,Pack,ST02
+P0373,Filter Coffee Powder 500 g,Beverages,370.0,294.61,64,18,55,SUP033,2,Pack,ST01
+P0374,Filter Coffee Powder 1 kg,Beverages,660.0,551.4,19,23,55,SUP035,3,Pack,ST05
+P0375,Cola Drink 300 ml,Beverages,16.0,12.57,49,18,55,SUP034,2,Bottle,ST03
+P0376,Cola Drink 750 ml,Beverages,39.0,31.54,13,28,60,SUP035,3,Bottle,ST03
+P0377,Cola Drink 1.25 L,Beverages,59.0,46.04,44,38,85,SUP036,3,Bottle,ST02
+P0378,Cola Drink 2.25 L,Beverages,108.0,88.42,21,32,70,SUP035,3,Bottle,ST01
+P0379,Lemon Soda Drink 600 ml,Beverages,28.0,20.69,49,33,100,SUP033,2,Bottle,ST04
+P0380,Lemon Soda Drink 1.25 L,Beverages,51.0,42.06,9,13,30,SUP036,3,Bottle,ST04
+P0381,Lemon Soda Drink 2 L,Beverages,87.0,73.18,10,13,35,SUP033,2,Bottle,ST03
+P0382,Orange Drink 600 ml,Beverages,36.0,27.52,30,14,30,SUP036,3,Bottle,ST05
+P0383,Orange Drink 1.25 L,Beverages,72.0,59.66,28,24,50,SUP035,3,Bottle,ST03
+P0384,Orange Drink 2.25 L,Beverages,133.0,102.91,22,12,35,SUP033,2,Bottle,ST04
+P0385,Mango Drink 200 ml,Beverages,15.0,11.33,50,62,140,SUP035,3,Bottle,ST03
+P0386,Mango Drink 600 ml,Beverages,46.0,37.93,52,21,60,SUP034,2,Bottle,ST02
+P0387,Mango Drink 1.2 L,Beverages,79.0,58.64,18,18,40,SUP035,3,Bottle,ST01
+P0388,Packaged Drinking Water 1 L,Beverages,15.0,11.14,143,48,150,SUP033,2,Bottle,ST03
+P0389,Packaged Drinking Water 5 L,Beverages,64.0,53.75,30,23,50,SUP035,3,Bottle,ST04
+P0390,Mixed Fruit Juice 200 ml,Beverages,30.0,25.12,20,30,70,SUP036,3,Carton,ST02
+P0391,Mixed Fruit Juice 1 L,Beverages,140.0,103.2,43,28,90,SUP033,2,Carton,ST04
+P0392,Apple Juice 200 ml,Beverages,32.0,24.14,32,17,35,SUP035,3,Carton,ST03
+P0393,Apple Juice 1 L,Beverages,152.0,123.28,16,8,14,SUP035,3,Carton,ST05
+P0394,Guava Juice 200 ml,Beverages,31.0,26.25,11,27,60,SUP036,3,Carton,ST04
+P0395,Guava Juice 1 L,Beverages,141.0,108.23,37,15,35,SUP035,3,Carton,ST02
+P0396,Coconut Water 200 ml,Beverages,20.0,14.6,24,21,60,SUP034,2,Carton,ST05
+P0397,Coconut Water 500 ml,Beverages,46.0,33.62,4,11,30,SUP033,2,Carton,ST02
+P0398,Energy Drink 250 ml,Beverages,103.0,87.47,33,15,45,SUP034,2,Bottle,ST01
+P0399,Malt Health Drink Powder 500 g,Beverages,223.0,175.87,58,51,120,SUP036,3,Pack,ST03
+P0400,Malt Health Drink Powder 1 kg,Beverages,415.0,309.75,44,16,50,SUP033,2,Pack,ST01
+P0401,Chocolate Drink Powder 500 g,Beverages,209.0,175.23,32,15,45,SUP033,2,Pack,ST04
+P0402,Chocolate Drink Powder 1 kg,Beverages,425.0,338.59,13,14,40,SUP034,2,Pack,ST01
+P0403,Rose Syrup 700 ml,Beverages,162.0,131.58,31,15,30,SUP036,3,Bottle,ST01
+P0404,Fruit Squash 700 ml,Beverages,139.0,116.97,14,5,30,SUP034,2,Bottle,ST05
+P0405,Plain Soda 750 ml,Beverages,17.0,12.96,33,17,35,SUP035,3,Bottle,ST01
+P0406,Plain Soda 2 L,Beverages,42.0,30.75,7,6,12,SUP035,3,Bottle,ST04
+P0407,Iced Tea 250 ml,Beverages,24.0,20.01,30,13,25,SUP035,3,Bottle,ST03
+P0408,Iced Tea 600 ml,Beverages,58.0,48.04,10,10,19,SUP035,3,Bottle,ST03
+P0409,Jaljeera Drink 200 ml,Beverages,13.0,10.64,21,12,30,SUP036,3,Bottle,ST02
+P0410,Jaljeera Drink 600 ml,Beverages,36.0,30.13,15,22,50,SUP035,3,Bottle,ST02
+P0411,Instant Noodles 280 g,Packaged Foods,61.0,45.39,153,70,150,SUP039,5,Pack,ST03
+P0412,Instant Noodles 420 g,Packaged Foods,89.0,72.75,191,211,455,SUP039,5,Pack,ST05
+P0413,Pasta 200 g,Packaged Foods,27.0,20.61,130,77,165,SUP037,5,Pack,ST04
+P0414,Pasta 500 g,Packaged Foods,63.0,50.75,26,45,95,SUP039,5,Pack,ST04
+P0415,Macaroni 200 g,Packaged Foods,24.0,17.65,25,27,55,SUP037,5,Pack,ST05
+P0416,Macaroni 500 g,Packaged Foods,54.0,40.34,10,62,130,SUP039,5,Pack,ST02
+P0417,Rolled Oats 400 g,Packaged Foods,80.0,60.63,153,70,130,SUP040,6,Pack,ST05
+P0418,Rolled Oats 1 kg,Packaged Foods,180.0,133.31,32,31,55,SUP040,6,Pack,ST02
+P0419,Cornflakes 250 g,Packaged Foods,90.0,68.96,96,57,120,SUP037,5,Pack,ST02
+P0420,Cornflakes 500 g,Packaged Foods,169.0,125.9,36,35,75,SUP039,5,Pack,ST05
+P0421,Cornflakes 800 g,Packaged Foods,262.0,197.39,13,17,30,SUP040,6,Pack,ST05
+P0422,Muesli 500 g,Packaged Foods,209.0,159.04,25,18,30,SUP040,6,Pack,ST03
+P0423,Tomato Ketchup 200 g,Packaged Foods,28.0,23.12,85,53,95,SUP038,6,Pack,ST05
+P0424,Tomato Ketchup 500 g,Packaged Foods,68.0,51.38,64,78,145,SUP040,6,Pack,ST04
+P0425,Soy Sauce 200 ml,Packaged Foods,26.0,18.89,81,41,85,SUP039,5,Bottle,ST05
+P0426,Green Chilli Sauce 200 g,Packaged Foods,32.0,24.67,33,33,70,SUP039,5,Pack,ST03
+P0427,Mayonnaise 250 g,Packaged Foods,58.0,48.11,17,34,70,SUP039,5,Pack,ST01
+P0428,Peanut Butter 200 g,Packaged Foods,74.0,59.37,100,49,105,SUP037,5,Pack,ST05
+P0429,Peanut Butter 500 g,Packaged Foods,181.0,136.42,32,30,60,SUP037,5,Pack,ST01
+P0430,Peanut Butter 1 kg,Packaged Foods,335.0,272.8,47,25,50,SUP039,5,Pack,ST02
+P0431,Mixed Fruit Jam 200 g,Packaged Foods,41.0,31.66,299,160,300,SUP038,6,Pack,ST04
+P0432,Mixed Fruit Jam 500 g,Packaged Foods,95.0,69.64,17,16,25,SUP038,6,Pack,ST02
+P0433,Honey 250 g,Packaged Foods,115.0,90.59,24,24,40,SUP038,6,Pack,ST03
+P0434,Honey 500 g,Packaged Foods,226.0,163.55,76,44,90,SUP039,5,Pack,ST01
+P0435,Mango Pickle 200 g,Packaged Foods,47.0,38.54,18,29,60,SUP039,5,Pack,ST05
+P0436,Mango Pickle 500 g,Packaged Foods,115.0,96.79,40,26,55,SUP039,5,Pack,ST03
+P0437,Lime Pickle 200 g,Packaged Foods,52.0,41.93,35,45,80,SUP040,6,Pack,ST05
+P0438,Papad 500 g,Packaged Foods,138.0,103.05,55,39,70,SUP038,6,Pack,ST03
+P0439,Idli Dosa Batter 1 kg,Packaged Foods,65.0,54.25,30,23,20,SUP018,2,Pack,ST05
+P0440,Instant Upma Mix 500 g,Packaged Foods,64.0,48.45,0,29,60,SUP039,5,Pack,ST05
+P0441,Gulab Jamun Mix 100 g,Packaged Foods,22.0,16.37,42,68,145,SUP037,5,Pack,ST04
+P0442,Gulab Jamun Mix 200 g,Packaged Foods,43.0,33.47,52,34,70,SUP039,5,Pack,ST02
+P0443,Chocolate Bar 40 g,Packaged Foods,29.0,21.49,224,157,345,SUP037,5,Pack,ST02
+P0444,Chocolate Bar 100 g,Packaged Foods,71.0,59.28,388,206,455,SUP037,5,Pack,ST03
+P0445,Canned Sweet Corn 400 g,Packaged Foods,79.0,60.77,45,22,45,SUP039,5,Pack,ST01
+P0446,Canned Chickpeas 400 g,Packaged Foods,71.0,55.82,26,17,35,SUP039,5,Pack,ST01
+P0447,Tomato Puree 200 g,Packaged Foods,35.0,26.77,28,21,40,SUP039,5,Pack,ST03
+P0448,Tomato Puree 500 g,Packaged Foods,80.0,66.31,45,31,55,SUP038,6,Pack,ST03
+P0449,Coconut Milk 200 ml,Packaged Foods,47.0,35.08,40,48,85,SUP040,6,Bottle,ST02
+P0450,Coconut Milk 400 ml,Packaged Foods,90.0,67.4,45,38,65,SUP040,6,Bottle,ST05
+P0451,Frozen Green Peas 500 g,Packaged Foods,76.0,64.53,15,17,30,SUP040,6,Pack,ST04
+P0452,Frozen Paratha 800 g,Packaged Foods,164.0,138.12,42,17,35,SUP037,5,Pack,ST03
+P0453,Frozen French Fries 400 g,Packaged Foods,92.0,72.52,12,19,35,SUP040,6,Pack,ST04
+P0454,Frozen French Fries 800 g,Packaged Foods,170.0,126.3,10,17,30,SUP040,6,Pack,ST05
+P0455,Ready-to-Eat Dal Makhani 300 g,Packaged Foods,78.0,59.35,22,29,60,SUP037,5,Pack,ST04
+P0456,Chocolate Spread 200 g,Packaged Foods,94.0,69.78,81,90,165,SUP038,6,Pack,ST04
+P0457,Tomato Soup Mix 50 g,Packaged Foods,18.0,13.2,38,39,80,SUP039,5,Pack,ST03
+P0458,White Vinegar 200 ml,Packaged Foods,14.0,10.39,27,15,25,SUP038,6,Bottle,ST05
+P0459,Instant Poha Mix 200 g,Packaged Foods,30.0,24.62,17,51,110,SUP039,5,Pack,ST01
+P0460,Instant Poha Mix 500 g,Packaged Foods,74.0,54.15,6,14,25,SUP038,6,Pack,ST04
+P0461,Detergent Powder 1 kg,Household & Personal Care,127.0,104.31,100,36,135,SUP042,4,Pack,ST01
+P0462,Detergent Powder 2 kg,Household & Personal Care,247.0,180.96,131,39,145,SUP041,4,Pack,ST01
+P0463,Detergent Powder 4 kg,Household & Personal Care,495.0,349.0,0,12,25,SUP043,7,Pack,ST03
+P0464,Detergent Liquid 2 L,Household & Personal Care,460.0,368.03,62,18,65,SUP042,4,Bottle,ST01
+P0465,Dishwash Liquid 500 ml,Household & Personal Care,80.0,62.33,78,54,210,SUP042,4,Bottle,ST01
+P0466,Dishwash Liquid 1 L,Household & Personal Care,163.0,116.26,16,27,60,SUP043,7,Bottle,ST01
+P0467,Dishwash Bar 3 pcs,Household & Personal Care,37.0,26.47,40,20,75,SUP042,4,Pack,ST01
+P0468,Floor Cleaner 500 ml,Household & Personal Care,97.0,76.07,80,41,95,SUP043,7,Bottle,ST02
+P0469,Floor Cleaner 2 L,Household & Personal Care,395.0,325.65,8,12,25,SUP043,7,Bottle,ST04
+P0470,Toilet Cleaner 1 L,Household & Personal Care,169.0,122.79,29,18,50,SUP044,5,Bottle,ST03
+P0471,Bath Soap 3 pcs,Household & Personal Care,118.0,94.93,45,30,95,SUP044,5,Pack,ST02
+P0472,Bath Soap 4 pcs,Household & Personal Care,140.0,111.93,57,33,75,SUP043,7,Pack,ST01
+P0473,Shampoo 180 ml,Household & Personal Care,115.0,84.6,0,29,110,SUP042,4,Bottle,ST03
+P0474,Shampoo 340 ml,Household & Personal Care,201.0,157.56,47,42,130,SUP044,5,Bottle,ST02
+P0475,Shampoo 650 ml,Household & Personal Care,380.0,289.29,74,44,100,SUP043,7,Bottle,ST05
+P0476,Toothpaste 100 g,Household & Personal Care,29.0,21.19,137,69,265,SUP041,4,Pack,ST03
+P0477,Toothbrush 1 pc,Household & Personal Care,40.0,33.46,25,11,30,SUP044,5,Piece,ST05
+P0478,Toothbrush 2 pcs,Household & Personal Care,76.0,53.95,11,13,45,SUP042,4,Pack,ST01
+P0479,Hand Wash 200 ml,Household & Personal Care,43.0,33.26,134,66,255,SUP041,4,Bottle,ST01
+P0480,Hand Wash 500 ml,Household & Personal Care,100.0,70.01,36,12,35,SUP044,5,Bottle,ST02
+P0481,Hand Wash 900 ml,Household & Personal Care,187.0,154.65,14,18,65,SUP041,4,Bottle,ST02
+P0482,Garbage Bags 30 pcs,Household & Personal Care,119.0,89.49,7,3,25,SUP043,7,Pack,ST03
+P0483,Matchbox 10 pcs,Household & Personal Care,21.0,17.16,24,8,25,SUP043,7,Pack,ST03
+P0484,Candles 6 pcs,Household & Personal Care,52.0,40.45,13,5,12,SUP041,4,Pack,ST04
+P0485,Candles 12 pcs,Household & Personal Care,100.0,72.83,6,5,12,SUP042,4,Pack,ST04
+P0486,Sanitary Pads 7 pcs,Household & Personal Care,64.0,50.43,12,6,12,SUP044,5,Pack,ST03
+P0487,Sanitary Pads 15 pcs,Household & Personal Care,131.0,103.21,9,9,25,SUP044,5,Pack,ST02
+P0488,Face Wash 100 ml,Household & Personal Care,70.0,49.1,50,74,290,SUP041,4,Bottle,ST02
+P0489,Face Wash 150 ml,Household & Personal Care,93.0,76.99,14,10,30,SUP041,4,Bottle,ST03
+P0490,Coconut Hair Oil 100 ml,Household & Personal Care,29.0,21.03,33,39,120,SUP044,5,Bottle,ST05
+P0491,Coconut Hair Oil 500 ml,Household & Personal Care,139.0,104.03,17,13,45,SUP042,4,Bottle,ST04
+P0492,Talcum Powder 200 g,Household & Personal Care,68.0,52.02,32,14,30,SUP043,7,Pack,ST05
+P0493,Talcum Powder 400 g,Household & Personal Care,120.0,84.58,31,9,30,SUP042,4,Pack,ST01
+P0494,Scrub Pad 3 pcs,Household & Personal Care,35.0,25.84,30,18,65,SUP041,4,Pack,ST01
+P0495,Tissue Rolls 1 pc,Household & Personal Care,29.0,22.84,14,6,15,SUP041,4,Piece,ST05
+P0496,Tissue Rolls 4 pcs,Household & Personal Care,120.0,87.58,0,4,12,SUP042,4,Pack,ST03
+P0497,Air Freshener Spray 1 pc,Household & Personal Care,178.0,135.05,22,9,25,SUP044,5,Piece,ST01
+P0498,Mosquito Repellent Refill 2 pcs,Household & Personal Care,149.0,106.47,54,17,60,SUP042,4,Pack,ST01
+P0499,Razor 1 pc,Household & Personal Care,27.0,22.67,18,10,25,SUP043,7,Piece,ST05
+P0500,Razor 3 pcs,Household & Personal Care,74.0,54.47,5,4,12,SUP041,4,Pack,ST04

@@ -1,0 +1,1001 @@
+Date,Product_ID,Product_Name,Category,Units_Sold,Unit_Price_INR,Discount_Percent,Promotion_Flag,Sales_Amount_INR,Stockout_Flag
+2026-01-01,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",53,126.0,10,1,6010.2,0
+2026-01-01,P0027,Besan 500 g,"Rice, Atta & Staples",50,51.0,0,0,2550.0,0
+2026-01-01,P0053,Moong Dal 500 g,Pulses & Dals,56,59.0,0,0,3304.0,0
+2026-01-01,P0079,Moth Beans 500 g,Pulses & Dals,19,52.0,15,1,839.8,0
+2026-01-01,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,0,0,4235.0,0
+2026-01-01,P0132,Turmeric Powder 500 g,Spices & Masalas,27,111.0,0,0,2997.0,0
+2026-01-01,P0158,Rasam Powder 100 g,Spices & Masalas,37,39.0,0,0,1443.0,0
+2026-01-01,P0184,Ajwain 100 g,Spices & Masalas,35,52.0,0,0,1820.0,0
+2026-01-01,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-01-01,P0237,White Eggs 6 pcs,Dairy & Eggs,13,43.0,0,0,559.0,0
+2026-01-01,P0263,Potato (Loose),Fruits & Vegetables,22,34.0,0,0,748.0,0
+2026-01-01,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,5,1,661.2,0
+2026-01-01,P0316,Marie Biscuits 500 g,Bakery & Snacks,55,50.0,0,0,2750.0,0
+2026-01-01,P0342,Khakhra 400 g,Bakery & Snacks,36,116.0,0,0,4176.0,0
+2026-01-01,P0368,Green Tea (Loose Leaf) 100 g,Beverages,15,100.0,0,0,1500.0,0
+2026-01-01,P0394,Guava Juice 200 ml,Beverages,23,31.0,0,0,713.0,0
+2026-01-01,P0421,Cornflakes 800 g,Packaged Foods,10,262.0,0,0,2620.0,0
+2026-01-01,P0447,Tomato Puree 200 g,Packaged Foods,12,35.0,0,0,420.0,0
+2026-01-01,P0473,Shampoo 180 ml,Household & Personal Care,33,115.0,0,0,3795.0,0
+2026-01-01,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,5,1,281.2,0
+2026-01-02,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",42,126.0,0,0,5292.0,0
+2026-01-02,P0027,Besan 500 g,"Rice, Atta & Staples",52,51.0,0,0,2652.0,0
+2026-01-02,P0053,Moong Dal 500 g,Pulses & Dals,53,59.0,0,0,3127.0,0
+2026-01-02,P0079,Moth Beans 500 g,Pulses & Dals,14,52.0,0,0,728.0,0
+2026-01-02,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,0,0,4620.0,0
+2026-01-02,P0132,Turmeric Powder 500 g,Spices & Masalas,31,111.0,5,1,3268.95,0
+2026-01-02,P0158,Rasam Powder 100 g,Spices & Masalas,37,39.0,0,0,1443.0,0
+2026-01-02,P0184,Ajwain 100 g,Spices & Masalas,29,52.0,0,0,1508.0,0
+2026-01-02,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,11,40.0,5,1,418.0,0
+2026-01-02,P0237,White Eggs 6 pcs,Dairy & Eggs,12,43.0,0,0,516.0,0
+2026-01-02,P0263,Potato (Loose),Fruits & Vegetables,19,34.0,0,0,646.0,0
+2026-01-02,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-01-02,P0316,Marie Biscuits 500 g,Bakery & Snacks,49,50.0,0,0,2450.0,0
+2026-01-02,P0342,Khakhra 400 g,Bakery & Snacks,37,116.0,0,0,4292.0,0
+2026-01-02,P0368,Green Tea (Loose Leaf) 100 g,Beverages,15,100.0,0,0,1500.0,0
+2026-01-02,P0394,Guava Juice 200 ml,Beverages,20,31.0,0,0,620.0,0
+2026-01-02,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,15,1,2449.7,0
+2026-01-02,P0447,Tomato Puree 200 g,Packaged Foods,14,35.0,0,0,490.0,0
+2026-01-02,P0473,Shampoo 180 ml,Household & Personal Care,38,115.0,0,0,4370.0,0
+2026-01-02,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-03,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",47,126.0,0,0,5922.0,0
+2026-01-03,P0027,Besan 500 g,"Rice, Atta & Staples",46,51.0,0,0,2346.0,0
+2026-01-03,P0053,Moong Dal 500 g,Pulses & Dals,64,59.0,5,1,3587.2,0
+2026-01-03,P0079,Moth Beans 500 g,Pulses & Dals,18,52.0,0,0,936.0,0
+2026-01-03,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,0,0,4235.0,0
+2026-01-03,P0132,Turmeric Powder 500 g,Spices & Masalas,26,111.0,0,0,2886.0,0
+2026-01-03,P0158,Rasam Powder 100 g,Spices & Masalas,43,39.0,0,0,1677.0,0
+2026-01-03,P0184,Ajwain 100 g,Spices & Masalas,41,52.0,0,0,2132.0,0
+2026-01-03,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-01-03,P0237,White Eggs 6 pcs,Dairy & Eggs,12,43.0,0,0,516.0,0
+2026-01-03,P0263,Potato (Loose),Fruits & Vegetables,21,34.0,5,1,678.3,0
+2026-01-03,P0289,Button Mushrooms 400 g,Fruits & Vegetables,7,116.0,0,0,812.0,0
+2026-01-03,P0316,Marie Biscuits 500 g,Bakery & Snacks,49,50.0,0,0,2450.0,0
+2026-01-03,P0342,Khakhra 400 g,Bakery & Snacks,46,116.0,5,1,5069.2,0
+2026-01-03,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-01-03,P0394,Guava Juice 200 ml,Beverages,21,31.0,0,0,651.0,0
+2026-01-03,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-01-03,P0447,Tomato Puree 200 g,Packaged Foods,14,35.0,0,0,490.0,0
+2026-01-03,P0473,Shampoo 180 ml,Household & Personal Care,39,115.0,0,0,4485.0,0
+2026-01-03,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-01-04,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",69,126.0,0,0,8694.0,0
+2026-01-04,P0027,Besan 500 g,"Rice, Atta & Staples",61,51.0,0,0,3111.0,0
+2026-01-04,P0053,Moong Dal 500 g,Pulses & Dals,58,59.0,0,0,3422.0,0
+2026-01-04,P0079,Moth Beans 500 g,Pulses & Dals,16,52.0,0,0,832.0,0
+2026-01-04,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,0,0,4235.0,0
+2026-01-04,P0132,Turmeric Powder 500 g,Spices & Masalas,24,111.0,0,0,2664.0,0
+2026-01-04,P0158,Rasam Powder 100 g,Spices & Masalas,55,39.0,0,0,2145.0,0
+2026-01-04,P0184,Ajwain 100 g,Spices & Masalas,52,52.0,15,1,2298.4,0
+2026-01-04,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,0,0,560.0,0
+2026-01-04,P0237,White Eggs 6 pcs,Dairy & Eggs,17,43.0,0,0,731.0,0
+2026-01-04,P0263,Potato (Loose),Fruits & Vegetables,26,34.0,0,0,884.0,0
+2026-01-04,P0289,Button Mushrooms 400 g,Fruits & Vegetables,7,116.0,0,0,812.0,0
+2026-01-04,P0316,Marie Biscuits 500 g,Bakery & Snacks,51,50.0,0,0,2550.0,0
+2026-01-04,P0342,Khakhra 400 g,Bakery & Snacks,33,116.0,0,0,3828.0,0
+2026-01-04,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-01-04,P0394,Guava Juice 200 ml,Beverages,24,31.0,10,1,669.6,0
+2026-01-04,P0421,Cornflakes 800 g,Packaged Foods,10,262.0,0,0,2620.0,0
+2026-01-04,P0447,Tomato Puree 200 g,Packaged Foods,15,35.0,0,0,525.0,0
+2026-01-04,P0473,Shampoo 180 ml,Household & Personal Care,53,115.0,15,1,5180.75,0
+2026-01-04,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-05,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",57,126.0,0,0,7182.0,0
+2026-01-05,P0027,Besan 500 g,"Rice, Atta & Staples",54,51.0,5,1,2616.3,0
+2026-01-05,P0053,Moong Dal 500 g,Pulses & Dals,48,59.0,0,0,2832.0,0
+2026-01-05,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-01-05,P0106,Sesame Oil 1 L,Edible Oils & Ghee,8,385.0,10,1,2772.0,0
+2026-01-05,P0132,Turmeric Powder 500 g,Spices & Masalas,22,111.0,0,0,2442.0,0
+2026-01-05,P0158,Rasam Powder 100 g,Spices & Masalas,37,39.0,0,0,1443.0,0
+2026-01-05,P0184,Ajwain 100 g,Spices & Masalas,38,52.0,0,0,1976.0,0
+2026-01-05,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,12,40.0,0,0,480.0,0
+2026-01-05,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-01-05,P0263,Potato (Loose),Fruits & Vegetables,21,34.0,0,0,714.0,0
+2026-01-05,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-01-05,P0316,Marie Biscuits 500 g,Bakery & Snacks,62,50.0,15,1,2635.0,0
+2026-01-05,P0342,Khakhra 400 g,Bakery & Snacks,28,116.0,0,0,3248.0,0
+2026-01-05,P0368,Green Tea (Loose Leaf) 100 g,Beverages,16,100.0,0,0,1600.0,0
+2026-01-05,P0394,Guava Juice 200 ml,Beverages,24,31.0,0,0,744.0,0
+2026-01-05,P0421,Cornflakes 800 g,Packaged Foods,9,262.0,0,0,2358.0,0
+2026-01-05,P0447,Tomato Puree 200 g,Packaged Foods,10,35.0,0,0,350.0,0
+2026-01-05,P0473,Shampoo 180 ml,Household & Personal Care,39,115.0,0,0,4485.0,0
+2026-01-05,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-01-06,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",53,126.0,0,0,6678.0,0
+2026-01-06,P0027,Besan 500 g,"Rice, Atta & Staples",47,51.0,0,0,2397.0,0
+2026-01-06,P0053,Moong Dal 500 g,Pulses & Dals,46,59.0,0,0,2714.0,0
+2026-01-06,P0079,Moth Beans 500 g,Pulses & Dals,12,52.0,0,0,624.0,0
+2026-01-06,P0106,Sesame Oil 1 L,Edible Oils & Ghee,8,385.0,0,0,3080.0,0
+2026-01-06,P0132,Turmeric Powder 500 g,Spices & Masalas,20,111.0,0,0,2220.0,0
+2026-01-06,P0158,Rasam Powder 100 g,Spices & Masalas,51,39.0,15,1,1690.65,0
+2026-01-06,P0184,Ajwain 100 g,Spices & Masalas,38,52.0,0,0,1976.0,0
+2026-01-06,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,11,40.0,0,0,440.0,0
+2026-01-06,P0237,White Eggs 6 pcs,Dairy & Eggs,19,43.0,5,1,776.15,0
+2026-01-06,P0263,Potato (Loose),Fruits & Vegetables,18,34.0,0,0,612.0,0
+2026-01-06,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-01-06,P0316,Marie Biscuits 500 g,Bakery & Snacks,52,50.0,0,0,2600.0,0
+2026-01-06,P0342,Khakhra 400 g,Bakery & Snacks,22,116.0,0,0,2552.0,0
+2026-01-06,P0368,Green Tea (Loose Leaf) 100 g,Beverages,16,100.0,0,0,1600.0,0
+2026-01-06,P0394,Guava Juice 200 ml,Beverages,18,31.0,0,0,558.0,0
+2026-01-06,P0421,Cornflakes 800 g,Packaged Foods,8,262.0,0,0,2096.0,0
+2026-01-06,P0447,Tomato Puree 200 g,Packaged Foods,19,35.0,15,1,565.25,0
+2026-01-06,P0473,Shampoo 180 ml,Household & Personal Care,48,115.0,0,0,5520.0,0
+2026-01-06,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-07,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",44,126.0,0,0,5544.0,0
+2026-01-07,P0027,Besan 500 g,"Rice, Atta & Staples",43,51.0,0,0,2193.0,0
+2026-01-07,P0053,Moong Dal 500 g,Pulses & Dals,38,59.0,0,0,2242.0,0
+2026-01-07,P0079,Moth Beans 500 g,Pulses & Dals,14,52.0,5,1,691.6,0
+2026-01-07,P0106,Sesame Oil 1 L,Edible Oils & Ghee,10,385.0,0,0,3850.0,0
+2026-01-07,P0132,Turmeric Powder 500 g,Spices & Masalas,19,111.0,0,0,2109.0,0
+2026-01-07,P0158,Rasam Powder 100 g,Spices & Masalas,46,39.0,0,0,1794.0,0
+2026-01-07,P0184,Ajwain 100 g,Spices & Masalas,43,52.0,0,0,2236.0,0
+2026-01-07,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,11,40.0,0,0,440.0,0
+2026-01-07,P0237,White Eggs 6 pcs,Dairy & Eggs,17,43.0,0,0,731.0,0
+2026-01-07,P0263,Potato (Loose),Fruits & Vegetables,20,34.0,0,0,680.0,0
+2026-01-07,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,15,1,493.0,0
+2026-01-07,P0316,Marie Biscuits 500 g,Bakery & Snacks,38,50.0,0,0,1900.0,0
+2026-01-07,P0342,Khakhra 400 g,Bakery & Snacks,31,116.0,0,0,3596.0,0
+2026-01-07,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,5,1,1710.0,0
+2026-01-07,P0394,Guava Juice 200 ml,Beverages,19,31.0,0,0,589.0,0
+2026-01-07,P0421,Cornflakes 800 g,Packaged Foods,9,262.0,0,0,2358.0,0
+2026-01-07,P0447,Tomato Puree 200 g,Packaged Foods,18,35.0,0,0,630.0,0
+2026-01-07,P0473,Shampoo 180 ml,Household & Personal Care,31,115.0,0,0,3565.0,0
+2026-01-07,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-01-08,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",57,126.0,15,1,6104.7,0
+2026-01-08,P0027,Besan 500 g,"Rice, Atta & Staples",39,51.0,0,0,1989.0,0
+2026-01-08,P0053,Moong Dal 500 g,Pulses & Dals,41,59.0,0,0,2419.0,0
+2026-01-08,P0079,Moth Beans 500 g,Pulses & Dals,12,52.0,0,0,624.0,0
+2026-01-08,P0106,Sesame Oil 1 L,Edible Oils & Ghee,10,385.0,0,0,3850.0,0
+2026-01-08,P0132,Turmeric Powder 500 g,Spices & Masalas,26,111.0,0,0,2886.0,0
+2026-01-08,P0158,Rasam Powder 100 g,Spices & Masalas,45,39.0,0,0,1755.0,0
+2026-01-08,P0184,Ajwain 100 g,Spices & Masalas,51,52.0,0,0,2652.0,0
+2026-01-08,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,15,40.0,15,1,510.0,0
+2026-01-08,P0237,White Eggs 6 pcs,Dairy & Eggs,13,43.0,0,0,559.0,0
+2026-01-08,P0263,Potato (Loose),Fruits & Vegetables,20,34.0,0,0,680.0,0
+2026-01-08,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-01-08,P0316,Marie Biscuits 500 g,Bakery & Snacks,25,50.0,0,0,1250.0,0
+2026-01-08,P0342,Khakhra 400 g,Bakery & Snacks,25,116.0,0,0,2900.0,0
+2026-01-08,P0368,Green Tea (Loose Leaf) 100 g,Beverages,13,100.0,0,0,1300.0,0
+2026-01-08,P0394,Guava Juice 200 ml,Beverages,20,31.0,0,0,620.0,0
+2026-01-08,P0421,Cornflakes 800 g,Packaged Foods,12,262.0,5,1,2986.8,0
+2026-01-08,P0447,Tomato Puree 200 g,Packaged Foods,19,35.0,0,0,665.0,0
+2026-01-08,P0473,Shampoo 180 ml,Household & Personal Care,33,115.0,0,0,3795.0,0
+2026-01-08,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,5,1,351.5,0
+2026-01-09,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",36,126.0,0,0,4536.0,0
+2026-01-09,P0027,Besan 500 g,"Rice, Atta & Staples",35,51.0,0,0,1785.0,0
+2026-01-09,P0053,Moong Dal 500 g,Pulses & Dals,48,59.0,10,1,2548.8,0
+2026-01-09,P0079,Moth Beans 500 g,Pulses & Dals,13,52.0,0,0,676.0,0
+2026-01-09,P0106,Sesame Oil 1 L,Edible Oils & Ghee,8,385.0,0,0,3080.0,0
+2026-01-09,P0132,Turmeric Powder 500 g,Spices & Masalas,32,111.0,5,1,3374.4,0
+2026-01-09,P0158,Rasam Powder 100 g,Spices & Masalas,43,39.0,0,0,1677.0,0
+2026-01-09,P0184,Ajwain 100 g,Spices & Masalas,47,52.0,0,0,2444.0,0
+2026-01-09,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,0,0,560.0,0
+2026-01-09,P0237,White Eggs 6 pcs,Dairy & Eggs,12,43.0,0,0,516.0,0
+2026-01-09,P0263,Potato (Loose),Fruits & Vegetables,16,34.0,0,0,544.0,0
+2026-01-09,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-01-09,P0316,Marie Biscuits 500 g,Bakery & Snacks,31,50.0,0,0,1550.0,0
+2026-01-09,P0342,Khakhra 400 g,Bakery & Snacks,34,116.0,10,1,3549.6,0
+2026-01-09,P0368,Green Tea (Loose Leaf) 100 g,Beverages,21,100.0,0,0,2100.0,0
+2026-01-09,P0394,Guava Juice 200 ml,Beverages,25,31.0,0,0,775.0,0
+2026-01-09,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-01-09,P0447,Tomato Puree 200 g,Packaged Foods,16,35.0,0,0,560.0,0
+2026-01-09,P0473,Shampoo 180 ml,Household & Personal Care,44,115.0,0,0,5060.0,0
+2026-01-09,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-10,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",49,126.0,0,0,6174.0,0
+2026-01-10,P0027,Besan 500 g,"Rice, Atta & Staples",53,51.0,0,0,2703.0,0
+2026-01-10,P0053,Moong Dal 500 g,Pulses & Dals,47,59.0,0,0,2773.0,0
+2026-01-10,P0079,Moth Beans 500 g,Pulses & Dals,14,52.0,0,0,728.0,0
+2026-01-10,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,0,0,4620.0,0
+2026-01-10,P0132,Turmeric Powder 500 g,Spices & Masalas,27,111.0,0,0,2997.0,0
+2026-01-10,P0158,Rasam Powder 100 g,Spices & Masalas,62,39.0,0,0,2418.0,0
+2026-01-10,P0184,Ajwain 100 g,Spices & Masalas,48,52.0,10,1,2246.4,0
+2026-01-10,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,17,40.0,0,0,680.0,0
+2026-01-10,P0237,White Eggs 6 pcs,Dairy & Eggs,16,43.0,0,0,688.0,0
+2026-01-10,P0263,Potato (Loose),Fruits & Vegetables,24,34.0,15,1,693.6,0
+2026-01-10,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-01-10,P0316,Marie Biscuits 500 g,Bakery & Snacks,47,50.0,0,0,2350.0,0
+2026-01-10,P0342,Khakhra 400 g,Bakery & Snacks,39,116.0,0,0,4524.0,0
+2026-01-10,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-01-10,P0394,Guava Juice 200 ml,Beverages,27,31.0,0,0,837.0,0
+2026-01-10,P0421,Cornflakes 800 g,Packaged Foods,14,262.0,0,0,3668.0,0
+2026-01-10,P0447,Tomato Puree 200 g,Packaged Foods,19,35.0,0,0,665.0,0
+2026-01-10,P0473,Shampoo 180 ml,Household & Personal Care,40,115.0,5,1,4370.0,0
+2026-01-10,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-11,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",40,126.0,0,0,5040.0,0
+2026-01-11,P0027,Besan 500 g,"Rice, Atta & Staples",46,51.0,0,0,2346.0,0
+2026-01-11,P0053,Moong Dal 500 g,Pulses & Dals,45,59.0,0,0,2655.0,0
+2026-01-11,P0079,Moth Beans 500 g,Pulses & Dals,13,52.0,0,0,676.0,0
+2026-01-11,P0106,Sesame Oil 1 L,Edible Oils & Ghee,15,385.0,15,1,4908.75,0
+2026-01-11,P0132,Turmeric Powder 500 g,Spices & Masalas,32,111.0,0,0,3552.0,0
+2026-01-11,P0158,Rasam Powder 100 g,Spices & Masalas,61,39.0,0,0,2379.0,0
+2026-01-11,P0184,Ajwain 100 g,Spices & Masalas,62,52.0,0,0,3224.0,0
+2026-01-11,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,0,0,560.0,0
+2026-01-11,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-01-11,P0263,Potato (Loose),Fruits & Vegetables,20,34.0,0,0,680.0,0
+2026-01-11,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-01-11,P0316,Marie Biscuits 500 g,Bakery & Snacks,54,50.0,5,1,2565.0,0
+2026-01-11,P0342,Khakhra 400 g,Bakery & Snacks,37,116.0,0,0,4292.0,0
+2026-01-11,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-01-11,P0394,Guava Juice 200 ml,Beverages,36,31.0,10,1,1004.4,0
+2026-01-11,P0421,Cornflakes 800 g,Packaged Foods,10,262.0,0,0,2620.0,0
+2026-01-11,P0447,Tomato Puree 200 g,Packaged Foods,19,35.0,0,0,665.0,0
+2026-01-11,P0473,Shampoo 180 ml,Household & Personal Care,42,115.0,0,0,4830.0,0
+2026-01-11,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-12,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",49,126.0,0,0,6174.0,0
+2026-01-12,P0027,Besan 500 g,"Rice, Atta & Staples",49,51.0,15,1,2124.15,0
+2026-01-12,P0053,Moong Dal 500 g,Pulses & Dals,40,59.0,0,0,2360.0,0
+2026-01-12,P0079,Moth Beans 500 g,Pulses & Dals,9,52.0,0,0,468.0,1
+2026-01-12,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,0,0,4620.0,0
+2026-01-12,P0132,Turmeric Powder 500 g,Spices & Masalas,26,111.0,0,0,2886.0,0
+2026-01-12,P0158,Rasam Powder 100 g,Spices & Masalas,40,39.0,0,0,1560.0,0
+2026-01-12,P0184,Ajwain 100 g,Spices & Masalas,41,52.0,0,0,2132.0,0
+2026-01-12,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,12,40.0,0,0,480.0,0
+2026-01-12,P0237,White Eggs 6 pcs,Dairy & Eggs,17,43.0,5,1,694.45,0
+2026-01-12,P0263,Potato (Loose),Fruits & Vegetables,17,34.0,0,0,578.0,0
+2026-01-12,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-01-12,P0316,Marie Biscuits 500 g,Bakery & Snacks,54,50.0,0,0,2700.0,0
+2026-01-12,P0342,Khakhra 400 g,Bakery & Snacks,31,116.0,0,0,3596.0,0
+2026-01-12,P0368,Green Tea (Loose Leaf) 100 g,Beverages,19,100.0,0,0,1900.0,0
+2026-01-12,P0394,Guava Juice 200 ml,Beverages,27,31.0,0,0,837.0,0
+2026-01-12,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-01-12,P0447,Tomato Puree 200 g,Packaged Foods,19,35.0,15,1,565.25,0
+2026-01-12,P0473,Shampoo 180 ml,Household & Personal Care,35,115.0,0,0,4025.0,0
+2026-01-12,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-13,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",47,126.0,0,0,5922.0,0
+2026-01-13,P0027,Besan 500 g,"Rice, Atta & Staples",61,51.0,0,0,3111.0,0
+2026-01-13,P0053,Moong Dal 500 g,Pulses & Dals,60,59.0,0,0,3540.0,0
+2026-01-13,P0079,Moth Beans 500 g,Pulses & Dals,16,52.0,10,1,748.8,0
+2026-01-13,P0106,Sesame Oil 1 L,Edible Oils & Ghee,14,385.0,0,0,5390.0,0
+2026-01-13,P0132,Turmeric Powder 500 g,Spices & Masalas,26,111.0,0,0,2886.0,0
+2026-01-13,P0158,Rasam Powder 100 g,Spices & Masalas,60,39.0,10,1,2106.0,0
+2026-01-13,P0184,Ajwain 100 g,Spices & Masalas,37,52.0,0,0,1924.0,0
+2026-01-13,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,10,40.0,0,0,400.0,0
+2026-01-13,P0237,White Eggs 6 pcs,Dairy & Eggs,11,43.0,0,0,473.0,0
+2026-01-13,P0263,Potato (Loose),Fruits & Vegetables,17,34.0,0,0,578.0,0
+2026-01-13,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-01-13,P0316,Marie Biscuits 500 g,Bakery & Snacks,57,50.0,0,0,2850.0,0
+2026-01-13,P0342,Khakhra 400 g,Bakery & Snacks,36,116.0,0,0,4176.0,0
+2026-01-13,P0368,Green Tea (Loose Leaf) 100 g,Beverages,24,100.0,15,1,2040.0,0
+2026-01-13,P0394,Guava Juice 200 ml,Beverages,19,31.0,0,0,589.0,0
+2026-01-13,P0421,Cornflakes 800 g,Packaged Foods,12,262.0,0,0,3144.0,0
+2026-01-13,P0447,Tomato Puree 200 g,Packaged Foods,9,35.0,0,0,315.0,0
+2026-01-13,P0473,Shampoo 180 ml,Household & Personal Care,35,115.0,0,0,4025.0,0
+2026-01-13,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-14,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",53,126.0,15,1,5676.3,0
+2026-01-14,P0027,Besan 500 g,"Rice, Atta & Staples",48,51.0,0,0,2448.0,0
+2026-01-14,P0053,Moong Dal 500 g,Pulses & Dals,52,59.0,0,0,3068.0,0
+2026-01-14,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-01-14,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,0,0,4235.0,0
+2026-01-14,P0132,Turmeric Powder 500 g,Spices & Masalas,30,111.0,0,0,3330.0,0
+2026-01-14,P0158,Rasam Powder 100 g,Spices & Masalas,38,39.0,0,0,1482.0,0
+2026-01-14,P0184,Ajwain 100 g,Spices & Masalas,40,52.0,0,0,2080.0,0
+2026-01-14,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,15,40.0,10,1,540.0,0
+2026-01-14,P0237,White Eggs 6 pcs,Dairy & Eggs,12,43.0,0,0,516.0,0
+2026-01-14,P0263,Potato (Loose),Fruits & Vegetables,18,34.0,0,0,612.0,0
+2026-01-14,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,10,1,522.0,0
+2026-01-14,P0316,Marie Biscuits 500 g,Bakery & Snacks,51,50.0,0,0,2550.0,0
+2026-01-14,P0342,Khakhra 400 g,Bakery & Snacks,36,116.0,0,0,4176.0,0
+2026-01-14,P0368,Green Tea (Loose Leaf) 100 g,Beverages,20,100.0,0,0,2000.0,0
+2026-01-14,P0394,Guava Juice 200 ml,Beverages,21,31.0,0,0,651.0,0
+2026-01-14,P0421,Cornflakes 800 g,Packaged Foods,6,262.0,0,0,1572.0,1
+2026-01-14,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,0,0,455.0,0
+2026-01-14,P0473,Shampoo 180 ml,Household & Personal Care,37,115.0,0,0,4255.0,0
+2026-01-14,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,10,1,266.4,0
+2026-01-15,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",54,126.0,0,0,6804.0,0
+2026-01-15,P0027,Besan 500 g,"Rice, Atta & Staples",60,51.0,0,0,3060.0,0
+2026-01-15,P0053,Moong Dal 500 g,Pulses & Dals,38,59.0,0,0,2242.0,0
+2026-01-15,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-01-15,P0106,Sesame Oil 1 L,Edible Oils & Ghee,8,385.0,0,0,3080.0,0
+2026-01-15,P0132,Turmeric Powder 500 g,Spices & Masalas,34,111.0,10,1,3396.6,0
+2026-01-15,P0158,Rasam Powder 100 g,Spices & Masalas,37,39.0,0,0,1443.0,0
+2026-01-15,P0184,Ajwain 100 g,Spices & Masalas,36,52.0,0,0,1872.0,0
+2026-01-15,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,10,40.0,0,0,400.0,0
+2026-01-15,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-01-15,P0263,Potato (Loose),Fruits & Vegetables,14,34.0,0,0,476.0,0
+2026-01-15,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-01-15,P0316,Marie Biscuits 500 g,Bakery & Snacks,49,50.0,0,0,2450.0,0
+2026-01-15,P0342,Khakhra 400 g,Bakery & Snacks,47,116.0,10,1,4906.8,0
+2026-01-15,P0368,Green Tea (Loose Leaf) 100 g,Beverages,19,100.0,0,0,1900.0,0
+2026-01-15,P0394,Guava Juice 200 ml,Beverages,18,31.0,0,0,558.0,0
+2026-01-15,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,10,1,2593.8,0
+2026-01-15,P0447,Tomato Puree 200 g,Packaged Foods,12,35.0,0,0,420.0,0
+2026-01-15,P0473,Shampoo 180 ml,Household & Personal Care,29,115.0,0,0,3335.0,0
+2026-01-15,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-16,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",44,126.0,0,0,5544.0,0
+2026-01-16,P0027,Besan 500 g,"Rice, Atta & Staples",56,51.0,0,0,2856.0,0
+2026-01-16,P0053,Moong Dal 500 g,Pulses & Dals,59,59.0,15,1,2958.85,0
+2026-01-16,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-01-16,P0106,Sesame Oil 1 L,Edible Oils & Ghee,9,385.0,0,0,3465.0,0
+2026-01-16,P0132,Turmeric Powder 500 g,Spices & Masalas,27,111.0,0,0,2997.0,0
+2026-01-16,P0158,Rasam Powder 100 g,Spices & Masalas,41,39.0,0,0,1599.0,0
+2026-01-16,P0184,Ajwain 100 g,Spices & Masalas,29,52.0,0,0,1508.0,0
+2026-01-16,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,9,40.0,0,0,360.0,0
+2026-01-16,P0237,White Eggs 6 pcs,Dairy & Eggs,10,43.0,0,0,430.0,0
+2026-01-16,P0263,Potato (Loose),Fruits & Vegetables,24,34.0,5,1,775.2,0
+2026-01-16,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-01-16,P0316,Marie Biscuits 500 g,Bakery & Snacks,55,50.0,0,0,2750.0,0
+2026-01-16,P0342,Khakhra 400 g,Bakery & Snacks,37,116.0,0,0,4292.0,0
+2026-01-16,P0368,Green Tea (Loose Leaf) 100 g,Beverages,16,100.0,0,0,1600.0,0
+2026-01-16,P0394,Guava Juice 200 ml,Beverages,17,31.0,0,0,527.0,0
+2026-01-16,P0421,Cornflakes 800 g,Packaged Foods,10,262.0,0,0,2620.0,0
+2026-01-16,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,0,0,455.0,0
+2026-01-16,P0473,Shampoo 180 ml,Household & Personal Care,43,115.0,10,1,4450.5,0
+2026-01-16,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-01-17,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",65,126.0,0,0,8190.0,0
+2026-01-17,P0027,Besan 500 g,"Rice, Atta & Staples",53,51.0,0,0,2703.0,0
+2026-01-17,P0053,Moong Dal 500 g,Pulses & Dals,64,59.0,0,0,3776.0,0
+2026-01-17,P0079,Moth Beans 500 g,Pulses & Dals,20,52.0,0,0,1040.0,0
+2026-01-17,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,5,1,4389.0,0
+2026-01-17,P0132,Turmeric Powder 500 g,Spices & Masalas,23,111.0,0,0,2553.0,0
+2026-01-17,P0158,Rasam Powder 100 g,Spices & Masalas,35,39.0,0,0,1365.0,0
+2026-01-17,P0184,Ajwain 100 g,Spices & Masalas,46,52.0,5,1,2272.4,0
+2026-01-17,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,15,40.0,0,0,600.0,0
+2026-01-17,P0237,White Eggs 6 pcs,Dairy & Eggs,18,43.0,0,0,774.0,0
+2026-01-17,P0263,Potato (Loose),Fruits & Vegetables,26,34.0,0,0,884.0,0
+2026-01-17,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-01-17,P0316,Marie Biscuits 500 g,Bakery & Snacks,44,50.0,0,0,2200.0,0
+2026-01-17,P0342,Khakhra 400 g,Bakery & Snacks,39,116.0,0,0,4524.0,0
+2026-01-17,P0368,Green Tea (Loose Leaf) 100 g,Beverages,17,100.0,0,0,1700.0,0
+2026-01-17,P0394,Guava Juice 200 ml,Beverages,26,31.0,15,1,685.1,0
+2026-01-17,P0421,Cornflakes 800 g,Packaged Foods,10,262.0,0,0,2620.0,0
+2026-01-17,P0447,Tomato Puree 200 g,Packaged Foods,15,35.0,0,0,525.0,0
+2026-01-17,P0473,Shampoo 180 ml,Household & Personal Care,38,115.0,0,0,4370.0,0
+2026-01-17,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-01-18,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",65,126.0,0,0,8190.0,0
+2026-01-18,P0027,Besan 500 g,"Rice, Atta & Staples",77,51.0,15,1,3337.95,0
+2026-01-18,P0053,Moong Dal 500 g,Pulses & Dals,49,59.0,0,0,2891.0,0
+2026-01-18,P0079,Moth Beans 500 g,Pulses & Dals,17,52.0,0,0,884.0,0
+2026-01-18,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,0,0,4620.0,0
+2026-01-18,P0132,Turmeric Powder 500 g,Spices & Masalas,32,111.0,0,0,3552.0,0
+2026-01-18,P0158,Rasam Powder 100 g,Spices & Masalas,48,39.0,0,0,1872.0,0
+2026-01-18,P0184,Ajwain 100 g,Spices & Masalas,41,52.0,0,0,2132.0,0
+2026-01-18,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,0,0,560.0,0
+2026-01-18,P0237,White Eggs 6 pcs,Dairy & Eggs,20,43.0,10,1,774.0,0
+2026-01-18,P0263,Potato (Loose),Fruits & Vegetables,26,34.0,0,0,884.0,0
+2026-01-18,P0289,Button Mushrooms 400 g,Fruits & Vegetables,7,116.0,0,0,812.0,0
+2026-01-18,P0316,Marie Biscuits 500 g,Bakery & Snacks,66,50.0,15,1,2805.0,0
+2026-01-18,P0342,Khakhra 400 g,Bakery & Snacks,39,116.0,0,0,4524.0,0
+2026-01-18,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-01-18,P0394,Guava Juice 200 ml,Beverages,16,31.0,0,0,496.0,0
+2026-01-18,P0421,Cornflakes 800 g,Packaged Foods,9,262.0,0,0,2358.0,0
+2026-01-18,P0447,Tomato Puree 200 g,Packaged Foods,16,35.0,0,0,560.0,0
+2026-01-18,P0473,Shampoo 180 ml,Household & Personal Care,37,115.0,0,0,4255.0,0
+2026-01-18,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-01-19,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",50,126.0,0,0,6300.0,0
+2026-01-19,P0027,Besan 500 g,"Rice, Atta & Staples",45,51.0,0,0,2295.0,0
+2026-01-19,P0053,Moong Dal 500 g,Pulses & Dals,39,59.0,0,0,2301.0,0
+2026-01-19,P0079,Moth Beans 500 g,Pulses & Dals,14,52.0,0,0,728.0,0
+2026-01-19,P0106,Sesame Oil 1 L,Edible Oils & Ghee,8,385.0,0,0,3080.0,0
+2026-01-19,P0132,Turmeric Powder 500 g,Spices & Masalas,25,111.0,0,0,2775.0,0
+2026-01-19,P0158,Rasam Powder 100 g,Spices & Masalas,54,39.0,15,1,1790.1,0
+2026-01-19,P0184,Ajwain 100 g,Spices & Masalas,34,52.0,0,0,1768.0,0
+2026-01-19,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,0,0,560.0,0
+2026-01-19,P0237,White Eggs 6 pcs,Dairy & Eggs,17,43.0,0,0,731.0,0
+2026-01-19,P0263,Potato (Loose),Fruits & Vegetables,19,34.0,0,0,646.0,0
+2026-01-19,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-01-19,P0316,Marie Biscuits 500 g,Bakery & Snacks,35,50.0,0,0,1750.0,0
+2026-01-19,P0342,Khakhra 400 g,Bakery & Snacks,29,116.0,0,0,3364.0,0
+2026-01-19,P0368,Green Tea (Loose Leaf) 100 g,Beverages,22,100.0,10,1,1980.0,0
+2026-01-19,P0394,Guava Juice 200 ml,Beverages,17,31.0,0,0,527.0,0
+2026-01-19,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-01-19,P0447,Tomato Puree 200 g,Packaged Foods,17,35.0,15,1,505.75,0
+2026-01-19,P0473,Shampoo 180 ml,Household & Personal Care,49,115.0,0,0,5635.0,0
+2026-01-19,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-01-20,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",57,126.0,10,1,6463.8,0
+2026-01-20,P0027,Besan 500 g,"Rice, Atta & Staples",50,51.0,0,0,2550.0,0
+2026-01-20,P0053,Moong Dal 500 g,Pulses & Dals,36,59.0,0,0,2124.0,0
+2026-01-20,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,15,1,663.0,0
+2026-01-20,P0106,Sesame Oil 1 L,Edible Oils & Ghee,7,385.0,0,0,2695.0,0
+2026-01-20,P0132,Turmeric Powder 500 g,Spices & Masalas,27,111.0,0,0,2997.0,0
+2026-01-20,P0158,Rasam Powder 100 g,Spices & Masalas,32,39.0,0,0,1248.0,0
+2026-01-20,P0184,Ajwain 100 g,Spices & Masalas,39,52.0,0,0,2028.0,0
+2026-01-20,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,12,40.0,0,0,480.0,0
+2026-01-20,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-01-20,P0263,Potato (Loose),Fruits & Vegetables,23,34.0,0,0,782.0,0
+2026-01-20,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,10,1,626.4,0
+2026-01-20,P0316,Marie Biscuits 500 g,Bakery & Snacks,43,50.0,0,0,2150.0,0
+2026-01-20,P0342,Khakhra 400 g,Bakery & Snacks,35,116.0,0,0,4060.0,0
+2026-01-20,P0368,Green Tea (Loose Leaf) 100 g,Beverages,16,100.0,0,0,1600.0,0
+2026-01-20,P0394,Guava Juice 200 ml,Beverages,20,31.0,0,0,620.0,0
+2026-01-20,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-01-20,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,0,0,455.0,0
+2026-01-20,P0473,Shampoo 180 ml,Household & Personal Care,43,115.0,0,0,4945.0,0
+2026-01-20,P0500,Razor 3 pcs,Household & Personal Care,6,74.0,15,1,377.4,0
+2026-01-21,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",54,126.0,0,0,6804.0,0
+2026-01-21,P0027,Besan 500 g,"Rice, Atta & Staples",44,51.0,0,0,2244.0,0
+2026-01-21,P0053,Moong Dal 500 g,Pulses & Dals,44,59.0,0,0,2596.0,0
+2026-01-21,P0079,Moth Beans 500 g,Pulses & Dals,11,52.0,0,0,572.0,0
+2026-01-21,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,0,0,4235.0,0
+2026-01-21,P0132,Turmeric Powder 500 g,Spices & Masalas,35,111.0,10,1,3496.5,0
+2026-01-21,P0158,Rasam Powder 100 g,Spices & Masalas,42,39.0,0,0,1638.0,0
+2026-01-21,P0184,Ajwain 100 g,Spices & Masalas,45,52.0,0,0,2340.0,0
+2026-01-21,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,15,1,476.0,0
+2026-01-21,P0237,White Eggs 6 pcs,Dairy & Eggs,17,43.0,0,0,731.0,0
+2026-01-21,P0263,Potato (Loose),Fruits & Vegetables,20,34.0,0,0,680.0,0
+2026-01-21,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-01-21,P0316,Marie Biscuits 500 g,Bakery & Snacks,47,50.0,0,0,2350.0,0
+2026-01-21,P0342,Khakhra 400 g,Bakery & Snacks,31,116.0,0,0,3596.0,0
+2026-01-21,P0368,Green Tea (Loose Leaf) 100 g,Beverages,19,100.0,0,0,1900.0,0
+2026-01-21,P0394,Guava Juice 200 ml,Beverages,21,31.0,0,0,651.0,0
+2026-01-21,P0421,Cornflakes 800 g,Packaged Foods,12,262.0,15,1,2672.4,0
+2026-01-21,P0447,Tomato Puree 200 g,Packaged Foods,17,35.0,0,0,595.0,0
+2026-01-21,P0473,Shampoo 180 ml,Household & Personal Care,39,115.0,0,0,4485.0,0
+2026-01-21,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-01-22,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",46,126.0,0,0,5796.0,0
+2026-01-22,P0027,Besan 500 g,"Rice, Atta & Staples",41,51.0,0,0,2091.0,0
+2026-01-22,P0053,Moong Dal 500 g,Pulses & Dals,49,59.0,5,1,2746.45,0
+2026-01-22,P0079,Moth Beans 500 g,Pulses & Dals,12,52.0,0,0,624.0,0
+2026-01-22,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,0,0,4235.0,0
+2026-01-22,P0132,Turmeric Powder 500 g,Spices & Masalas,24,111.0,0,0,2664.0,0
+2026-01-22,P0158,Rasam Powder 100 g,Spices & Masalas,50,39.0,0,0,1950.0,0
+2026-01-22,P0184,Ajwain 100 g,Spices & Masalas,47,52.0,0,0,2444.0,0
+2026-01-22,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-01-22,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-01-22,P0263,Potato (Loose),Fruits & Vegetables,21,34.0,5,1,678.3,0
+2026-01-22,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-01-22,P0316,Marie Biscuits 500 g,Bakery & Snacks,37,50.0,0,0,1850.0,0
+2026-01-22,P0342,Khakhra 400 g,Bakery & Snacks,35,116.0,5,1,3857.0,0
+2026-01-22,P0368,Green Tea (Loose Leaf) 100 g,Beverages,14,100.0,0,0,1400.0,0
+2026-01-22,P0394,Guava Juice 200 ml,Beverages,24,31.0,0,0,744.0,0
+2026-01-22,P0421,Cornflakes 800 g,Packaged Foods,12,262.0,0,0,3144.0,0
+2026-01-22,P0447,Tomato Puree 200 g,Packaged Foods,20,35.0,0,0,700.0,0
+2026-01-22,P0473,Shampoo 180 ml,Household & Personal Care,45,115.0,0,0,5175.0,0
+2026-01-22,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-01-23,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",37,126.0,0,0,4662.0,0
+2026-01-23,P0027,Besan 500 g,"Rice, Atta & Staples",40,51.0,0,0,2040.0,0
+2026-01-23,P0053,Moong Dal 500 g,Pulses & Dals,48,59.0,0,0,2832.0,0
+2026-01-23,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-01-23,P0106,Sesame Oil 1 L,Edible Oils & Ghee,9,385.0,0,0,3465.0,0
+2026-01-23,P0132,Turmeric Powder 500 g,Spices & Masalas,32,111.0,0,0,3552.0,0
+2026-01-23,P0158,Rasam Powder 100 g,Spices & Masalas,31,39.0,0,0,1209.0,1
+2026-01-23,P0184,Ajwain 100 g,Spices & Masalas,53,52.0,5,1,2618.2,0
+2026-01-23,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-01-23,P0237,White Eggs 6 pcs,Dairy & Eggs,12,43.0,0,0,516.0,0
+2026-01-23,P0263,Potato (Loose),Fruits & Vegetables,20,34.0,0,0,680.0,0
+2026-01-23,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-01-23,P0316,Marie Biscuits 500 g,Bakery & Snacks,32,50.0,0,0,1600.0,0
+2026-01-23,P0342,Khakhra 400 g,Bakery & Snacks,32,116.0,0,0,3712.0,0
+2026-01-23,P0368,Green Tea (Loose Leaf) 100 g,Beverages,16,100.0,0,0,1600.0,0
+2026-01-23,P0394,Guava Juice 200 ml,Beverages,24,31.0,15,1,632.4,0
+2026-01-23,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-01-23,P0447,Tomato Puree 200 g,Packaged Foods,15,35.0,0,0,525.0,0
+2026-01-23,P0473,Shampoo 180 ml,Household & Personal Care,52,115.0,15,1,5083.0,0
+2026-01-23,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-24,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",48,126.0,0,0,6048.0,0
+2026-01-24,P0027,Besan 500 g,"Rice, Atta & Staples",41,51.0,10,1,1881.9,0
+2026-01-24,P0053,Moong Dal 500 g,Pulses & Dals,51,59.0,0,0,3009.0,0
+2026-01-24,P0079,Moth Beans 500 g,Pulses & Dals,17,52.0,0,0,884.0,0
+2026-01-24,P0106,Sesame Oil 1 L,Edible Oils & Ghee,15,385.0,5,1,5486.25,0
+2026-01-24,P0132,Turmeric Powder 500 g,Spices & Masalas,33,111.0,0,0,3663.0,0
+2026-01-24,P0158,Rasam Powder 100 g,Spices & Masalas,66,39.0,0,0,2574.0,0
+2026-01-24,P0184,Ajwain 100 g,Spices & Masalas,53,52.0,0,0,2756.0,0
+2026-01-24,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,15,40.0,0,0,600.0,0
+2026-01-24,P0237,White Eggs 6 pcs,Dairy & Eggs,16,43.0,0,0,688.0,0
+2026-01-24,P0263,Potato (Loose),Fruits & Vegetables,24,34.0,0,0,816.0,0
+2026-01-24,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-01-24,P0316,Marie Biscuits 500 g,Bakery & Snacks,52,50.0,10,1,2340.0,0
+2026-01-24,P0342,Khakhra 400 g,Bakery & Snacks,35,116.0,0,0,4060.0,0
+2026-01-24,P0368,Green Tea (Loose Leaf) 100 g,Beverages,26,100.0,0,0,2600.0,0
+2026-01-24,P0394,Guava Juice 200 ml,Beverages,20,31.0,0,0,620.0,0
+2026-01-24,P0421,Cornflakes 800 g,Packaged Foods,14,262.0,0,0,3668.0,0
+2026-01-24,P0447,Tomato Puree 200 g,Packaged Foods,19,35.0,0,0,665.0,0
+2026-01-24,P0473,Shampoo 180 ml,Household & Personal Care,44,115.0,0,0,5060.0,0
+2026-01-24,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-25,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",52,126.0,0,0,6552.0,0
+2026-01-25,P0027,Besan 500 g,"Rice, Atta & Staples",48,51.0,0,0,2448.0,0
+2026-01-25,P0053,Moong Dal 500 g,Pulses & Dals,46,59.0,0,0,2714.0,0
+2026-01-25,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-01-25,P0106,Sesame Oil 1 L,Edible Oils & Ghee,10,385.0,0,0,3850.0,0
+2026-01-25,P0132,Turmeric Powder 500 g,Spices & Masalas,37,111.0,0,0,4107.0,0
+2026-01-25,P0158,Rasam Powder 100 g,Spices & Masalas,78,39.0,10,1,2737.8,0
+2026-01-25,P0184,Ajwain 100 g,Spices & Masalas,54,52.0,0,0,2808.0,0
+2026-01-25,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-01-25,P0237,White Eggs 6 pcs,Dairy & Eggs,21,43.0,5,1,857.85,0
+2026-01-25,P0263,Potato (Loose),Fruits & Vegetables,22,34.0,0,0,748.0,0
+2026-01-25,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-01-25,P0316,Marie Biscuits 500 g,Bakery & Snacks,50,50.0,0,0,2500.0,0
+2026-01-25,P0342,Khakhra 400 g,Bakery & Snacks,34,116.0,0,0,3944.0,0
+2026-01-25,P0368,Green Tea (Loose Leaf) 100 g,Beverages,22,100.0,0,0,2200.0,0
+2026-01-25,P0394,Guava Juice 200 ml,Beverages,31,31.0,0,0,961.0,0
+2026-01-25,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-01-25,P0447,Tomato Puree 200 g,Packaged Foods,19,35.0,5,1,631.75,0
+2026-01-25,P0473,Shampoo 180 ml,Household & Personal Care,44,115.0,0,0,5060.0,0
+2026-01-25,P0500,Razor 3 pcs,Household & Personal Care,2,74.0,0,0,148.0,1
+2026-01-26,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",40,126.0,0,0,5040.0,0
+2026-01-26,P0027,Besan 500 g,"Rice, Atta & Staples",42,51.0,0,0,2142.0,0
+2026-01-26,P0053,Moong Dal 500 g,Pulses & Dals,40,59.0,0,0,2360.0,0
+2026-01-26,P0079,Moth Beans 500 g,Pulses & Dals,18,52.0,15,1,795.6,0
+2026-01-26,P0106,Sesame Oil 1 L,Edible Oils & Ghee,10,385.0,0,0,3850.0,0
+2026-01-26,P0132,Turmeric Powder 500 g,Spices & Masalas,29,111.0,0,0,3219.0,0
+2026-01-26,P0158,Rasam Powder 100 g,Spices & Masalas,54,39.0,0,0,2106.0,0
+2026-01-26,P0184,Ajwain 100 g,Spices & Masalas,34,52.0,0,0,1768.0,0
+2026-01-26,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,10,40.0,0,0,400.0,0
+2026-01-26,P0237,White Eggs 6 pcs,Dairy & Eggs,10,43.0,0,0,430.0,0
+2026-01-26,P0263,Potato (Loose),Fruits & Vegetables,15,34.0,0,0,510.0,0
+2026-01-26,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,10,1,522.0,0
+2026-01-26,P0316,Marie Biscuits 500 g,Bakery & Snacks,47,50.0,0,0,2350.0,0
+2026-01-26,P0342,Khakhra 400 g,Bakery & Snacks,36,116.0,0,0,4176.0,0
+2026-01-26,P0368,Green Tea (Loose Leaf) 100 g,Beverages,23,100.0,5,1,2185.0,0
+2026-01-26,P0394,Guava Juice 200 ml,Beverages,24,31.0,0,0,744.0,0
+2026-01-26,P0421,Cornflakes 800 g,Packaged Foods,8,262.0,0,0,2096.0,0
+2026-01-26,P0447,Tomato Puree 200 g,Packaged Foods,16,35.0,0,0,560.0,0
+2026-01-26,P0473,Shampoo 180 ml,Household & Personal Care,24,115.0,0,0,2760.0,0
+2026-01-26,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-27,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",48,126.0,5,1,5745.6,0
+2026-01-27,P0027,Besan 500 g,"Rice, Atta & Staples",49,51.0,0,0,2499.0,0
+2026-01-27,P0053,Moong Dal 500 g,Pulses & Dals,49,59.0,0,0,2891.0,0
+2026-01-27,P0079,Moth Beans 500 g,Pulses & Dals,17,52.0,0,0,884.0,0
+2026-01-27,P0106,Sesame Oil 1 L,Edible Oils & Ghee,14,385.0,0,0,5390.0,0
+2026-01-27,P0132,Turmeric Powder 500 g,Spices & Masalas,26,111.0,0,0,2886.0,0
+2026-01-27,P0158,Rasam Powder 100 g,Spices & Masalas,46,39.0,0,0,1794.0,0
+2026-01-27,P0184,Ajwain 100 g,Spices & Masalas,38,52.0,0,0,1976.0,0
+2026-01-27,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,15,1,476.0,0
+2026-01-27,P0237,White Eggs 6 pcs,Dairy & Eggs,11,43.0,0,0,473.0,0
+2026-01-27,P0263,Potato (Loose),Fruits & Vegetables,17,34.0,0,0,578.0,0
+2026-01-27,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-01-27,P0316,Marie Biscuits 500 g,Bakery & Snacks,53,50.0,0,0,2650.0,0
+2026-01-27,P0342,Khakhra 400 g,Bakery & Snacks,44,116.0,0,0,5104.0,0
+2026-01-27,P0368,Green Tea (Loose Leaf) 100 g,Beverages,15,100.0,0,0,1500.0,0
+2026-01-27,P0394,Guava Juice 200 ml,Beverages,27,31.0,0,0,837.0,0
+2026-01-27,P0421,Cornflakes 800 g,Packaged Foods,13,262.0,10,1,3065.4,0
+2026-01-27,P0447,Tomato Puree 200 g,Packaged Foods,11,35.0,0,0,385.0,0
+2026-01-27,P0473,Shampoo 180 ml,Household & Personal Care,31,115.0,0,0,3565.0,0
+2026-01-27,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,5,1,281.2,0
+2026-01-28,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",41,126.0,0,0,5166.0,0
+2026-01-28,P0027,Besan 500 g,"Rice, Atta & Staples",48,51.0,0,0,2448.0,0
+2026-01-28,P0053,Moong Dal 500 g,Pulses & Dals,55,59.0,15,1,2758.25,0
+2026-01-28,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-01-28,P0106,Sesame Oil 1 L,Edible Oils & Ghee,15,385.0,0,0,5775.0,0
+2026-01-28,P0132,Turmeric Powder 500 g,Spices & Masalas,34,111.0,10,1,3396.6,0
+2026-01-28,P0158,Rasam Powder 100 g,Spices & Masalas,56,39.0,0,0,2184.0,0
+2026-01-28,P0184,Ajwain 100 g,Spices & Masalas,34,52.0,0,0,1768.0,0
+2026-01-28,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,9,40.0,0,0,360.0,0
+2026-01-28,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-01-28,P0263,Potato (Loose),Fruits & Vegetables,18,34.0,0,0,612.0,0
+2026-01-28,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-01-28,P0316,Marie Biscuits 500 g,Bakery & Snacks,65,50.0,0,0,3250.0,0
+2026-01-28,P0342,Khakhra 400 g,Bakery & Snacks,43,116.0,15,1,4239.8,0
+2026-01-28,P0368,Green Tea (Loose Leaf) 100 g,Beverages,19,100.0,0,0,1900.0,0
+2026-01-28,P0394,Guava Juice 200 ml,Beverages,29,31.0,0,0,899.0,0
+2026-01-28,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-01-28,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,0,0,455.0,0
+2026-01-28,P0473,Shampoo 180 ml,Household & Personal Care,39,115.0,0,0,4485.0,0
+2026-01-28,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-29,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",53,126.0,0,0,6678.0,0
+2026-01-29,P0027,Besan 500 g,"Rice, Atta & Staples",47,51.0,0,0,2397.0,0
+2026-01-29,P0053,Moong Dal 500 g,Pulses & Dals,47,59.0,0,0,2773.0,0
+2026-01-29,P0079,Moth Beans 500 g,Pulses & Dals,17,52.0,0,0,884.0,0
+2026-01-29,P0106,Sesame Oil 1 L,Edible Oils & Ghee,10,385.0,0,0,3850.0,0
+2026-01-29,P0132,Turmeric Powder 500 g,Spices & Masalas,31,111.0,0,0,3441.0,0
+2026-01-29,P0158,Rasam Powder 100 g,Spices & Masalas,39,39.0,0,0,1521.0,0
+2026-01-29,P0184,Ajwain 100 g,Spices & Masalas,47,52.0,15,1,2077.4,0
+2026-01-29,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,10,40.0,0,0,400.0,0
+2026-01-29,P0237,White Eggs 6 pcs,Dairy & Eggs,13,43.0,0,0,559.0,0
+2026-01-29,P0263,Potato (Loose),Fruits & Vegetables,19,34.0,15,1,549.1,0
+2026-01-29,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-01-29,P0316,Marie Biscuits 500 g,Bakery & Snacks,53,50.0,0,0,2650.0,0
+2026-01-29,P0342,Khakhra 400 g,Bakery & Snacks,32,116.0,0,0,3712.0,0
+2026-01-29,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-01-29,P0394,Guava Juice 200 ml,Beverages,21,31.0,0,0,651.0,0
+2026-01-29,P0421,Cornflakes 800 g,Packaged Foods,7,262.0,0,0,1834.0,0
+2026-01-29,P0447,Tomato Puree 200 g,Packaged Foods,14,35.0,0,0,490.0,0
+2026-01-29,P0473,Shampoo 180 ml,Household & Personal Care,36,115.0,5,1,3933.0,0
+2026-01-29,P0500,Razor 3 pcs,Household & Personal Care,3,74.0,0,0,222.0,0
+2026-01-30,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",47,126.0,0,0,5922.0,0
+2026-01-30,P0027,Besan 500 g,"Rice, Atta & Staples",45,51.0,0,0,2295.0,0
+2026-01-30,P0053,Moong Dal 500 g,Pulses & Dals,54,59.0,0,0,3186.0,0
+2026-01-30,P0079,Moth Beans 500 g,Pulses & Dals,16,52.0,0,0,832.0,0
+2026-01-30,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,5,1,4389.0,0
+2026-01-30,P0132,Turmeric Powder 500 g,Spices & Masalas,29,111.0,0,0,3219.0,0
+2026-01-30,P0158,Rasam Powder 100 g,Spices & Masalas,50,39.0,0,0,1950.0,0
+2026-01-30,P0184,Ajwain 100 g,Spices & Masalas,40,52.0,0,0,2080.0,0
+2026-01-30,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,11,40.0,0,0,440.0,0
+2026-01-30,P0237,White Eggs 6 pcs,Dairy & Eggs,16,43.0,0,0,688.0,0
+2026-01-30,P0263,Potato (Loose),Fruits & Vegetables,24,34.0,0,0,816.0,0
+2026-01-30,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-01-30,P0316,Marie Biscuits 500 g,Bakery & Snacks,78,50.0,15,1,3315.0,0
+2026-01-30,P0342,Khakhra 400 g,Bakery & Snacks,34,116.0,0,0,3944.0,0
+2026-01-30,P0368,Green Tea (Loose Leaf) 100 g,Beverages,14,100.0,0,0,1400.0,0
+2026-01-30,P0394,Guava Juice 200 ml,Beverages,28,31.0,5,1,824.6,0
+2026-01-30,P0421,Cornflakes 800 g,Packaged Foods,9,262.0,0,0,2358.0,0
+2026-01-30,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,0,0,455.0,0
+2026-01-30,P0473,Shampoo 180 ml,Household & Personal Care,28,115.0,0,0,3220.0,0
+2026-01-30,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-01-31,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",65,126.0,0,0,8190.0,0
+2026-01-31,P0027,Besan 500 g,"Rice, Atta & Staples",73,51.0,5,1,3536.85,0
+2026-01-31,P0053,Moong Dal 500 g,Pulses & Dals,60,59.0,0,0,3540.0,0
+2026-01-31,P0079,Moth Beans 500 g,Pulses & Dals,17,52.0,0,0,884.0,0
+2026-01-31,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,0,0,4235.0,0
+2026-01-31,P0132,Turmeric Powder 500 g,Spices & Masalas,23,111.0,0,0,2553.0,0
+2026-01-31,P0158,Rasam Powder 100 g,Spices & Masalas,43,39.0,0,0,1677.0,0
+2026-01-31,P0184,Ajwain 100 g,Spices & Masalas,54,52.0,0,0,2808.0,0
+2026-01-31,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-01-31,P0237,White Eggs 6 pcs,Dairy & Eggs,19,43.0,10,1,735.3,0
+2026-01-31,P0263,Potato (Loose),Fruits & Vegetables,27,34.0,0,0,918.0,0
+2026-01-31,P0289,Button Mushrooms 400 g,Fruits & Vegetables,7,116.0,0,0,812.0,0
+2026-01-31,P0316,Marie Biscuits 500 g,Bakery & Snacks,56,50.0,0,0,2800.0,0
+2026-01-31,P0342,Khakhra 400 g,Bakery & Snacks,44,116.0,0,0,5104.0,0
+2026-01-31,P0368,Green Tea (Loose Leaf) 100 g,Beverages,23,100.0,0,0,2300.0,0
+2026-01-31,P0394,Guava Juice 200 ml,Beverages,18,31.0,0,0,558.0,0
+2026-01-31,P0421,Cornflakes 800 g,Packaged Foods,9,262.0,0,0,2358.0,0
+2026-01-31,P0447,Tomato Puree 200 g,Packaged Foods,18,35.0,15,1,535.5,0
+2026-01-31,P0473,Shampoo 180 ml,Household & Personal Care,40,115.0,0,0,4600.0,0
+2026-01-31,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-02-01,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",76,126.0,0,0,9576.0,0
+2026-02-01,P0027,Besan 500 g,"Rice, Atta & Staples",54,51.0,0,0,2754.0,0
+2026-02-01,P0053,Moong Dal 500 g,Pulses & Dals,50,59.0,0,0,2950.0,0
+2026-02-01,P0079,Moth Beans 500 g,Pulses & Dals,18,52.0,10,1,842.4,0
+2026-02-01,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,0,0,4235.0,0
+2026-02-01,P0132,Turmeric Powder 500 g,Spices & Masalas,25,111.0,0,0,2775.0,0
+2026-02-01,P0158,Rasam Powder 100 g,Spices & Masalas,62,39.0,5,1,2297.1,0
+2026-02-01,P0184,Ajwain 100 g,Spices & Masalas,46,52.0,0,0,2392.0,0
+2026-02-01,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-02-01,P0237,White Eggs 6 pcs,Dairy & Eggs,21,43.0,0,0,903.0,0
+2026-02-01,P0263,Potato (Loose),Fruits & Vegetables,26,34.0,0,0,884.0,0
+2026-02-01,P0289,Button Mushrooms 400 g,Fruits & Vegetables,7,116.0,0,0,812.0,0
+2026-02-01,P0316,Marie Biscuits 500 g,Bakery & Snacks,65,50.0,0,0,3250.0,0
+2026-02-01,P0342,Khakhra 400 g,Bakery & Snacks,43,116.0,0,0,4988.0,0
+2026-02-01,P0368,Green Tea (Loose Leaf) 100 g,Beverages,22,100.0,5,1,2090.0,0
+2026-02-01,P0394,Guava Juice 200 ml,Beverages,22,31.0,0,0,682.0,0
+2026-02-01,P0421,Cornflakes 800 g,Packaged Foods,10,262.0,0,0,2620.0,0
+2026-02-01,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,0,0,455.0,0
+2026-02-01,P0473,Shampoo 180 ml,Household & Personal Care,43,115.0,0,0,4945.0,0
+2026-02-01,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-02-02,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",54,126.0,10,1,6123.6,0
+2026-02-02,P0027,Besan 500 g,"Rice, Atta & Staples",56,51.0,0,0,2856.0,0
+2026-02-02,P0053,Moong Dal 500 g,Pulses & Dals,42,59.0,0,0,2478.0,0
+2026-02-02,P0079,Moth Beans 500 g,Pulses & Dals,16,52.0,0,0,832.0,0
+2026-02-02,P0106,Sesame Oil 1 L,Edible Oils & Ghee,10,385.0,0,0,3850.0,0
+2026-02-02,P0132,Turmeric Powder 500 g,Spices & Masalas,19,111.0,0,0,2109.0,0
+2026-02-02,P0158,Rasam Powder 100 g,Spices & Masalas,42,39.0,0,0,1638.0,0
+2026-02-02,P0184,Ajwain 100 g,Spices & Masalas,41,52.0,0,0,2132.0,0
+2026-02-02,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,16,40.0,15,1,544.0,0
+2026-02-02,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-02-02,P0263,Potato (Loose),Fruits & Vegetables,20,34.0,0,0,680.0,0
+2026-02-02,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,5,1,661.2,0
+2026-02-02,P0316,Marie Biscuits 500 g,Bakery & Snacks,39,50.0,0,0,1950.0,0
+2026-02-02,P0342,Khakhra 400 g,Bakery & Snacks,34,116.0,0,0,3944.0,0
+2026-02-02,P0368,Green Tea (Loose Leaf) 100 g,Beverages,17,100.0,0,0,1700.0,0
+2026-02-02,P0394,Guava Juice 200 ml,Beverages,19,31.0,0,0,589.0,0
+2026-02-02,P0421,Cornflakes 800 g,Packaged Foods,9,262.0,0,0,2358.0,0
+2026-02-02,P0447,Tomato Puree 200 g,Packaged Foods,14,35.0,0,0,490.0,0
+2026-02-02,P0473,Shampoo 180 ml,Household & Personal Care,43,115.0,0,0,4945.0,0
+2026-02-02,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,10,1,333.0,0
+2026-02-03,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",54,126.0,0,0,6804.0,0
+2026-02-03,P0027,Besan 500 g,"Rice, Atta & Staples",54,51.0,0,0,2754.0,0
+2026-02-03,P0053,Moong Dal 500 g,Pulses & Dals,41,59.0,0,0,2419.0,0
+2026-02-03,P0079,Moth Beans 500 g,Pulses & Dals,13,52.0,0,0,676.0,0
+2026-02-03,P0106,Sesame Oil 1 L,Edible Oils & Ghee,8,385.0,0,0,3080.0,0
+2026-02-03,P0132,Turmeric Powder 500 g,Spices & Masalas,29,111.0,5,1,3058.05,0
+2026-02-03,P0158,Rasam Powder 100 g,Spices & Masalas,44,39.0,0,0,1716.0,0
+2026-02-03,P0184,Ajwain 100 g,Spices & Masalas,50,52.0,0,0,2600.0,0
+2026-02-03,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-02-03,P0237,White Eggs 6 pcs,Dairy & Eggs,9,43.0,0,0,387.0,1
+2026-02-03,P0263,Potato (Loose),Fruits & Vegetables,22,34.0,0,0,748.0,0
+2026-02-03,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-02-03,P0316,Marie Biscuits 500 g,Bakery & Snacks,43,50.0,0,0,2150.0,0
+2026-02-03,P0342,Khakhra 400 g,Bakery & Snacks,30,116.0,5,1,3306.0,0
+2026-02-03,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-02-03,P0394,Guava Juice 200 ml,Beverages,19,31.0,0,0,589.0,0
+2026-02-03,P0421,Cornflakes 800 g,Packaged Foods,10,262.0,10,1,2358.0,0
+2026-02-03,P0447,Tomato Puree 200 g,Packaged Foods,15,35.0,0,0,525.0,0
+2026-02-03,P0473,Shampoo 180 ml,Household & Personal Care,43,115.0,0,0,4945.0,0
+2026-02-03,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-02-04,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",55,126.0,0,0,6930.0,0
+2026-02-04,P0027,Besan 500 g,"Rice, Atta & Staples",54,51.0,0,0,2754.0,0
+2026-02-04,P0053,Moong Dal 500 g,Pulses & Dals,44,59.0,5,1,2466.2,0
+2026-02-04,P0079,Moth Beans 500 g,Pulses & Dals,12,52.0,0,0,624.0,0
+2026-02-04,P0106,Sesame Oil 1 L,Edible Oils & Ghee,8,385.0,0,0,3080.0,0
+2026-02-04,P0132,Turmeric Powder 500 g,Spices & Masalas,22,111.0,0,0,2442.0,0
+2026-02-04,P0158,Rasam Powder 100 g,Spices & Masalas,44,39.0,0,0,1716.0,0
+2026-02-04,P0184,Ajwain 100 g,Spices & Masalas,48,52.0,0,0,2496.0,0
+2026-02-04,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-02-04,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-02-04,P0263,Potato (Loose),Fruits & Vegetables,23,34.0,15,1,664.7,0
+2026-02-04,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-02-04,P0316,Marie Biscuits 500 g,Bakery & Snacks,40,50.0,0,0,2000.0,0
+2026-02-04,P0342,Khakhra 400 g,Bakery & Snacks,29,116.0,0,0,3364.0,0
+2026-02-04,P0368,Green Tea (Loose Leaf) 100 g,Beverages,13,100.0,0,0,1300.0,0
+2026-02-04,P0394,Guava Juice 200 ml,Beverages,20,31.0,0,0,620.0,0
+2026-02-04,P0421,Cornflakes 800 g,Packaged Foods,14,262.0,0,0,3668.0,0
+2026-02-04,P0447,Tomato Puree 200 g,Packaged Foods,18,35.0,0,0,630.0,0
+2026-02-04,P0473,Shampoo 180 ml,Household & Personal Care,52,115.0,5,1,5681.0,0
+2026-02-04,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-02-05,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",54,126.0,0,0,6804.0,0
+2026-02-05,P0027,Besan 500 g,"Rice, Atta & Staples",47,51.0,0,0,2397.0,0
+2026-02-05,P0053,Moong Dal 500 g,Pulses & Dals,50,59.0,0,0,2950.0,0
+2026-02-05,P0079,Moth Beans 500 g,Pulses & Dals,13,52.0,0,0,676.0,0
+2026-02-05,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,10,1,3811.5,0
+2026-02-05,P0132,Turmeric Powder 500 g,Spices & Masalas,26,111.0,0,0,2886.0,0
+2026-02-05,P0158,Rasam Powder 100 g,Spices & Masalas,49,39.0,0,0,1911.0,0
+2026-02-05,P0184,Ajwain 100 g,Spices & Masalas,45,52.0,15,1,1989.0,0
+2026-02-05,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,17,40.0,0,0,680.0,0
+2026-02-05,P0237,White Eggs 6 pcs,Dairy & Eggs,17,43.0,0,0,731.0,0
+2026-02-05,P0263,Potato (Loose),Fruits & Vegetables,24,34.0,0,0,816.0,0
+2026-02-05,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-02-05,P0316,Marie Biscuits 500 g,Bakery & Snacks,38,50.0,0,0,1900.0,0
+2026-02-05,P0342,Khakhra 400 g,Bakery & Snacks,29,116.0,0,0,3364.0,0
+2026-02-05,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-02-05,P0394,Guava Juice 200 ml,Beverages,24,31.0,15,1,632.4,0
+2026-02-05,P0421,Cornflakes 800 g,Packaged Foods,10,262.0,0,0,2620.0,0
+2026-02-05,P0447,Tomato Puree 200 g,Packaged Foods,16,35.0,0,0,560.0,0
+2026-02-05,P0473,Shampoo 180 ml,Household & Personal Care,44,115.0,0,0,5060.0,0
+2026-02-05,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-02-06,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",38,126.0,0,0,4788.0,0
+2026-02-06,P0027,Besan 500 g,"Rice, Atta & Staples",50,51.0,5,1,2422.5,0
+2026-02-06,P0053,Moong Dal 500 g,Pulses & Dals,40,59.0,0,0,2360.0,0
+2026-02-06,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-02-06,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,0,0,4235.0,0
+2026-02-06,P0132,Turmeric Powder 500 g,Spices & Masalas,27,111.0,0,0,2997.0,0
+2026-02-06,P0158,Rasam Powder 100 g,Spices & Masalas,60,39.0,0,0,2340.0,0
+2026-02-06,P0184,Ajwain 100 g,Spices & Masalas,45,52.0,0,0,2340.0,0
+2026-02-06,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,15,40.0,0,0,600.0,0
+2026-02-06,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,15,1,548.25,0
+2026-02-06,P0263,Potato (Loose),Fruits & Vegetables,16,34.0,0,0,544.0,0
+2026-02-06,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-02-06,P0316,Marie Biscuits 500 g,Bakery & Snacks,43,50.0,5,1,2042.5,0
+2026-02-06,P0342,Khakhra 400 g,Bakery & Snacks,28,116.0,0,0,3248.0,0
+2026-02-06,P0368,Green Tea (Loose Leaf) 100 g,Beverages,20,100.0,0,0,2000.0,0
+2026-02-06,P0394,Guava Juice 200 ml,Beverages,23,31.0,0,0,713.0,0
+2026-02-06,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-02-06,P0447,Tomato Puree 200 g,Packaged Foods,16,35.0,0,0,560.0,0
+2026-02-06,P0473,Shampoo 180 ml,Household & Personal Care,46,115.0,0,0,5290.0,0
+2026-02-06,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-02-07,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",52,126.0,0,0,6552.0,0
+2026-02-07,P0027,Besan 500 g,"Rice, Atta & Staples",46,51.0,0,0,2346.0,0
+2026-02-07,P0053,Moong Dal 500 g,Pulses & Dals,49,59.0,0,0,2891.0,0
+2026-02-07,P0079,Moth Beans 500 g,Pulses & Dals,18,52.0,0,0,936.0,0
+2026-02-07,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,0,0,4620.0,0
+2026-02-07,P0132,Turmeric Powder 500 g,Spices & Masalas,29,111.0,0,0,3219.0,0
+2026-02-07,P0158,Rasam Powder 100 g,Spices & Masalas,68,39.0,10,1,2386.8,0
+2026-02-07,P0184,Ajwain 100 g,Spices & Masalas,59,52.0,0,0,3068.0,0
+2026-02-07,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,0,0,560.0,0
+2026-02-07,P0237,White Eggs 6 pcs,Dairy & Eggs,16,43.0,0,0,688.0,0
+2026-02-07,P0263,Potato (Loose),Fruits & Vegetables,19,34.0,0,0,646.0,0
+2026-02-07,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-02-07,P0316,Marie Biscuits 500 g,Bakery & Snacks,57,50.0,0,0,2850.0,0
+2026-02-07,P0342,Khakhra 400 g,Bakery & Snacks,32,116.0,0,0,3712.0,0
+2026-02-07,P0368,Green Tea (Loose Leaf) 100 g,Beverages,20,100.0,15,1,1700.0,0
+2026-02-07,P0394,Guava Juice 200 ml,Beverages,30,31.0,0,0,930.0,0
+2026-02-07,P0421,Cornflakes 800 g,Packaged Foods,14,262.0,0,0,3668.0,0
+2026-02-07,P0447,Tomato Puree 200 g,Packaged Foods,22,35.0,15,1,654.5,0
+2026-02-07,P0473,Shampoo 180 ml,Household & Personal Care,52,115.0,0,0,5980.0,0
+2026-02-07,P0500,Razor 3 pcs,Household & Personal Care,3,74.0,0,0,222.0,0
+2026-02-08,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",62,126.0,10,1,7030.8,0
+2026-02-08,P0027,Besan 500 g,"Rice, Atta & Staples",37,51.0,0,0,1887.0,0
+2026-02-08,P0053,Moong Dal 500 g,Pulses & Dals,40,59.0,0,0,2360.0,0
+2026-02-08,P0079,Moth Beans 500 g,Pulses & Dals,24,52.0,15,1,1060.8,0
+2026-02-08,P0106,Sesame Oil 1 L,Edible Oils & Ghee,14,385.0,0,0,5390.0,0
+2026-02-08,P0132,Turmeric Powder 500 g,Spices & Masalas,33,111.0,0,0,3663.0,0
+2026-02-08,P0158,Rasam Powder 100 g,Spices & Masalas,68,39.0,0,0,2652.0,0
+2026-02-08,P0184,Ajwain 100 g,Spices & Masalas,48,52.0,0,0,2496.0,0
+2026-02-08,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,17,40.0,0,0,680.0,0
+2026-02-08,P0237,White Eggs 6 pcs,Dairy & Eggs,13,43.0,0,0,559.0,0
+2026-02-08,P0263,Potato (Loose),Fruits & Vegetables,19,34.0,0,0,646.0,0
+2026-02-08,P0289,Button Mushrooms 400 g,Fruits & Vegetables,7,116.0,10,1,730.8,0
+2026-02-08,P0316,Marie Biscuits 500 g,Bakery & Snacks,59,50.0,0,0,2950.0,0
+2026-02-08,P0342,Khakhra 400 g,Bakery & Snacks,45,116.0,0,0,5220.0,0
+2026-02-08,P0368,Green Tea (Loose Leaf) 100 g,Beverages,21,100.0,0,0,2100.0,0
+2026-02-08,P0394,Guava Juice 200 ml,Beverages,31,31.0,0,0,961.0,0
+2026-02-08,P0421,Cornflakes 800 g,Packaged Foods,15,262.0,0,0,3930.0,0
+2026-02-08,P0447,Tomato Puree 200 g,Packaged Foods,19,35.0,0,0,665.0,0
+2026-02-08,P0473,Shampoo 180 ml,Household & Personal Care,44,115.0,0,0,5060.0,0
+2026-02-08,P0500,Razor 3 pcs,Household & Personal Care,7,74.0,10,1,466.2,0
+2026-02-09,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",33,126.0,0,0,4158.0,0
+2026-02-09,P0027,Besan 500 g,"Rice, Atta & Staples",40,51.0,0,0,2040.0,0
+2026-02-09,P0053,Moong Dal 500 g,Pulses & Dals,42,59.0,0,0,2478.0,0
+2026-02-09,P0079,Moth Beans 500 g,Pulses & Dals,16,52.0,0,0,832.0,0
+2026-02-09,P0106,Sesame Oil 1 L,Edible Oils & Ghee,13,385.0,0,0,5005.0,0
+2026-02-09,P0132,Turmeric Powder 500 g,Spices & Masalas,32,111.0,10,1,3196.8,0
+2026-02-09,P0158,Rasam Powder 100 g,Spices & Masalas,46,39.0,0,0,1794.0,0
+2026-02-09,P0184,Ajwain 100 g,Spices & Masalas,34,52.0,0,0,1768.0,0
+2026-02-09,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,15,40.0,5,1,570.0,0
+2026-02-09,P0237,White Eggs 6 pcs,Dairy & Eggs,12,43.0,0,0,516.0,0
+2026-02-09,P0263,Potato (Loose),Fruits & Vegetables,19,34.0,0,0,646.0,0
+2026-02-09,P0289,Button Mushrooms 400 g,Fruits & Vegetables,4,116.0,0,0,464.0,0
+2026-02-09,P0316,Marie Biscuits 500 g,Bakery & Snacks,38,50.0,0,0,1900.0,0
+2026-02-09,P0342,Khakhra 400 g,Bakery & Snacks,30,116.0,0,0,3480.0,0
+2026-02-09,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-02-09,P0394,Guava Juice 200 ml,Beverages,24,31.0,0,0,744.0,0
+2026-02-09,P0421,Cornflakes 800 g,Packaged Foods,15,262.0,10,1,3537.0,0
+2026-02-09,P0447,Tomato Puree 200 g,Packaged Foods,16,35.0,0,0,560.0,0
+2026-02-09,P0473,Shampoo 180 ml,Household & Personal Care,38,115.0,0,0,4370.0,0
+2026-02-09,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-02-10,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",44,126.0,0,0,5544.0,0
+2026-02-10,P0027,Besan 500 g,"Rice, Atta & Staples",39,51.0,0,0,1989.0,0
+2026-02-10,P0053,Moong Dal 500 g,Pulses & Dals,51,59.0,10,1,2708.1,0
+2026-02-10,P0079,Moth Beans 500 g,Pulses & Dals,16,52.0,0,0,832.0,0
+2026-02-10,P0106,Sesame Oil 1 L,Edible Oils & Ghee,10,385.0,0,0,3850.0,0
+2026-02-10,P0132,Turmeric Powder 500 g,Spices & Masalas,21,111.0,0,0,2331.0,0
+2026-02-10,P0158,Rasam Powder 100 g,Spices & Masalas,51,39.0,0,0,1989.0,0
+2026-02-10,P0184,Ajwain 100 g,Spices & Masalas,32,52.0,0,0,1664.0,0
+2026-02-10,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,11,40.0,0,0,440.0,0
+2026-02-10,P0237,White Eggs 6 pcs,Dairy & Eggs,11,43.0,0,0,473.0,0
+2026-02-10,P0263,Potato (Loose),Fruits & Vegetables,21,34.0,10,1,642.6,0
+2026-02-10,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-02-10,P0316,Marie Biscuits 500 g,Bakery & Snacks,49,50.0,0,0,2450.0,0
+2026-02-10,P0342,Khakhra 400 g,Bakery & Snacks,38,116.0,15,1,3746.8,0
+2026-02-10,P0368,Green Tea (Loose Leaf) 100 g,Beverages,22,100.0,0,0,2200.0,0
+2026-02-10,P0394,Guava Juice 200 ml,Beverages,28,31.0,0,0,868.0,0
+2026-02-10,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-02-10,P0447,Tomato Puree 200 g,Packaged Foods,15,35.0,0,0,525.0,0
+2026-02-10,P0473,Shampoo 180 ml,Household & Personal Care,36,115.0,0,0,4140.0,0
+2026-02-10,P0500,Razor 3 pcs,Household & Personal Care,2,74.0,0,0,148.0,0
+2026-02-11,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",35,126.0,0,0,4410.0,0
+2026-02-11,P0027,Besan 500 g,"Rice, Atta & Staples",55,51.0,0,0,2805.0,0
+2026-02-11,P0053,Moong Dal 500 g,Pulses & Dals,40,59.0,0,0,2360.0,0
+2026-02-11,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-02-11,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,0,0,4620.0,0
+2026-02-11,P0132,Turmeric Powder 500 g,Spices & Masalas,27,111.0,0,0,2997.0,0
+2026-02-11,P0158,Rasam Powder 100 g,Spices & Masalas,52,39.0,0,0,2028.0,0
+2026-02-11,P0184,Ajwain 100 g,Spices & Masalas,49,52.0,15,1,2165.8,0
+2026-02-11,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,11,40.0,0,0,440.0,0
+2026-02-11,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-02-11,P0263,Potato (Loose),Fruits & Vegetables,15,34.0,0,0,510.0,0
+2026-02-11,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-02-11,P0316,Marie Biscuits 500 g,Bakery & Snacks,50,50.0,0,0,2500.0,0
+2026-02-11,P0342,Khakhra 400 g,Bakery & Snacks,29,116.0,0,0,3364.0,0
+2026-02-11,P0368,Green Tea (Loose Leaf) 100 g,Beverages,19,100.0,0,0,1900.0,0
+2026-02-11,P0394,Guava Juice 200 ml,Beverages,25,31.0,10,1,697.5,0
+2026-02-11,P0421,Cornflakes 800 g,Packaged Foods,13,262.0,0,0,3406.0,0
+2026-02-11,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,0,0,455.0,0
+2026-02-11,P0473,Shampoo 180 ml,Household & Personal Care,47,115.0,5,1,5134.75,0
+2026-02-11,P0500,Razor 3 pcs,Household & Personal Care,3,74.0,0,0,222.0,0
+2026-02-12,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",43,126.0,0,0,5418.0,0
+2026-02-12,P0027,Besan 500 g,"Rice, Atta & Staples",56,51.0,10,1,2570.4,0
+2026-02-12,P0053,Moong Dal 500 g,Pulses & Dals,41,59.0,0,0,2419.0,0
+2026-02-12,P0079,Moth Beans 500 g,Pulses & Dals,15,52.0,0,0,780.0,0
+2026-02-12,P0106,Sesame Oil 1 L,Edible Oils & Ghee,13,385.0,10,1,4504.5,0
+2026-02-12,P0132,Turmeric Powder 500 g,Spices & Masalas,27,111.0,0,0,2997.0,0
+2026-02-12,P0158,Rasam Powder 100 g,Spices & Masalas,36,39.0,0,0,1404.0,0
+2026-02-12,P0184,Ajwain 100 g,Spices & Masalas,35,52.0,0,0,1820.0,0
+2026-02-12,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,11,40.0,0,0,440.0,0
+2026-02-12,P0237,White Eggs 6 pcs,Dairy & Eggs,12,43.0,0,0,516.0,0
+2026-02-12,P0263,Potato (Loose),Fruits & Vegetables,16,34.0,0,0,544.0,0
+2026-02-12,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-02-12,P0316,Marie Biscuits 500 g,Bakery & Snacks,69,50.0,10,1,3105.0,0
+2026-02-12,P0342,Khakhra 400 g,Bakery & Snacks,45,116.0,0,0,5220.0,0
+2026-02-12,P0368,Green Tea (Loose Leaf) 100 g,Beverages,21,100.0,0,0,2100.0,0
+2026-02-12,P0394,Guava Juice 200 ml,Beverages,19,31.0,0,0,589.0,0
+2026-02-12,P0421,Cornflakes 800 g,Packaged Foods,11,262.0,0,0,2882.0,0
+2026-02-12,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,0,0,455.0,0
+2026-02-12,P0473,Shampoo 180 ml,Household & Personal Care,32,115.0,0,0,3680.0,0
+2026-02-12,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-02-13,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",56,126.0,0,0,7056.0,0
+2026-02-13,P0027,Besan 500 g,"Rice, Atta & Staples",54,51.0,0,0,2754.0,0
+2026-02-13,P0053,Moong Dal 500 g,Pulses & Dals,48,59.0,0,0,2832.0,0
+2026-02-13,P0079,Moth Beans 500 g,Pulses & Dals,14,52.0,0,0,728.0,0
+2026-02-13,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,0,0,4620.0,0
+2026-02-13,P0132,Turmeric Powder 500 g,Spices & Masalas,25,111.0,0,0,2775.0,0
+2026-02-13,P0158,Rasam Powder 100 g,Spices & Masalas,48,39.0,5,1,1778.4,0
+2026-02-13,P0184,Ajwain 100 g,Spices & Masalas,32,52.0,0,0,1664.0,0
+2026-02-13,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,13,40.0,0,0,520.0,0
+2026-02-13,P0237,White Eggs 6 pcs,Dairy & Eggs,21,43.0,10,1,812.7,0
+2026-02-13,P0263,Potato (Loose),Fruits & Vegetables,18,34.0,0,0,612.0,0
+2026-02-13,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-02-13,P0316,Marie Biscuits 500 g,Bakery & Snacks,49,50.0,0,0,2450.0,0
+2026-02-13,P0342,Khakhra 400 g,Bakery & Snacks,41,116.0,0,0,4756.0,0
+2026-02-13,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-02-13,P0394,Guava Juice 200 ml,Beverages,17,31.0,0,0,527.0,0
+2026-02-13,P0421,Cornflakes 800 g,Packaged Foods,8,262.0,0,0,2096.0,0
+2026-02-13,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,15,1,386.75,0
+2026-02-13,P0473,Shampoo 180 ml,Household & Personal Care,28,115.0,0,0,3220.0,0
+2026-02-13,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-02-14,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",71,126.0,0,0,8946.0,0
+2026-02-14,P0027,Besan 500 g,"Rice, Atta & Staples",60,51.0,0,0,3060.0,0
+2026-02-14,P0053,Moong Dal 500 g,Pulses & Dals,50,59.0,0,0,2950.0,0
+2026-02-14,P0079,Moth Beans 500 g,Pulses & Dals,18,52.0,5,1,889.2,0
+2026-02-14,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,0,0,4620.0,0
+2026-02-14,P0132,Turmeric Powder 500 g,Spices & Masalas,32,111.0,0,0,3552.0,0
+2026-02-14,P0158,Rasam Powder 100 g,Spices & Masalas,48,39.0,0,0,1872.0,0
+2026-02-14,P0184,Ajwain 100 g,Spices & Masalas,39,52.0,0,0,2028.0,0
+2026-02-14,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,11,40.0,0,0,440.0,0
+2026-02-14,P0237,White Eggs 6 pcs,Dairy & Eggs,16,43.0,0,0,688.0,0
+2026-02-14,P0263,Potato (Loose),Fruits & Vegetables,23,34.0,0,0,782.0,0
+2026-02-14,P0289,Button Mushrooms 400 g,Fruits & Vegetables,8,116.0,10,1,835.2,0
+2026-02-14,P0316,Marie Biscuits 500 g,Bakery & Snacks,32,50.0,0,0,1600.0,1
+2026-02-14,P0342,Khakhra 400 g,Bakery & Snacks,46,116.0,0,0,5336.0,0
+2026-02-14,P0368,Green Tea (Loose Leaf) 100 g,Beverages,29,100.0,5,1,2755.0,0
+2026-02-14,P0394,Guava Juice 200 ml,Beverages,26,31.0,0,0,806.0,0
+2026-02-14,P0421,Cornflakes 800 g,Packaged Foods,13,262.0,0,0,3406.0,0
+2026-02-14,P0447,Tomato Puree 200 g,Packaged Foods,15,35.0,0,0,525.0,0
+2026-02-14,P0473,Shampoo 180 ml,Household & Personal Care,42,115.0,0,0,4830.0,0
+2026-02-14,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-02-15,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",92,126.0,5,1,11012.4,0
+2026-02-15,P0027,Besan 500 g,"Rice, Atta & Staples",47,51.0,0,0,2397.0,0
+2026-02-15,P0053,Moong Dal 500 g,Pulses & Dals,58,59.0,0,0,3422.0,0
+2026-02-15,P0079,Moth Beans 500 g,Pulses & Dals,17,52.0,0,0,884.0,0
+2026-02-15,P0106,Sesame Oil 1 L,Edible Oils & Ghee,12,385.0,0,0,4620.0,0
+2026-02-15,P0132,Turmeric Powder 500 g,Spices & Masalas,33,111.0,0,0,3663.0,0
+2026-02-15,P0158,Rasam Powder 100 g,Spices & Masalas,44,39.0,0,0,1716.0,0
+2026-02-15,P0184,Ajwain 100 g,Spices & Masalas,56,52.0,0,0,2912.0,0
+2026-02-15,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,21,40.0,5,1,798.0,0
+2026-02-15,P0237,White Eggs 6 pcs,Dairy & Eggs,22,43.0,0,0,946.0,0
+2026-02-15,P0263,Potato (Loose),Fruits & Vegetables,24,34.0,0,0,816.0,0
+2026-02-15,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-02-15,P0316,Marie Biscuits 500 g,Bakery & Snacks,57,50.0,0,0,2850.0,0
+2026-02-15,P0342,Khakhra 400 g,Bakery & Snacks,35,116.0,0,0,4060.0,0
+2026-02-15,P0368,Green Tea (Loose Leaf) 100 g,Beverages,24,100.0,0,0,2400.0,0
+2026-02-15,P0394,Guava Juice 200 ml,Beverages,24,31.0,0,0,744.0,0
+2026-02-15,P0421,Cornflakes 800 g,Packaged Foods,13,262.0,15,1,2895.1,0
+2026-02-15,P0447,Tomato Puree 200 g,Packaged Foods,18,35.0,0,0,630.0,0
+2026-02-15,P0473,Shampoo 180 ml,Household & Personal Care,49,115.0,0,0,5635.0,0
+2026-02-15,P0500,Razor 3 pcs,Household & Personal Care,6,74.0,15,1,377.4,0
+2026-02-16,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",56,126.0,0,0,7056.0,0
+2026-02-16,P0027,Besan 500 g,"Rice, Atta & Staples",58,51.0,0,0,2958.0,0
+2026-02-16,P0053,Moong Dal 500 g,Pulses & Dals,52,59.0,15,1,2607.8,0
+2026-02-16,P0079,Moth Beans 500 g,Pulses & Dals,14,52.0,0,0,728.0,0
+2026-02-16,P0106,Sesame Oil 1 L,Edible Oils & Ghee,10,385.0,0,0,3850.0,0
+2026-02-16,P0132,Turmeric Powder 500 g,Spices & Masalas,27,111.0,15,1,2547.45,0
+2026-02-16,P0158,Rasam Powder 100 g,Spices & Masalas,43,39.0,0,0,1677.0,0
+2026-02-16,P0184,Ajwain 100 g,Spices & Masalas,34,52.0,0,0,1768.0,0
+2026-02-16,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,0,0,560.0,0
+2026-02-16,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,0,0,645.0,0
+2026-02-16,P0263,Potato (Loose),Fruits & Vegetables,26,34.0,0,0,884.0,0
+2026-02-16,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-02-16,P0316,Marie Biscuits 500 g,Bakery & Snacks,38,50.0,0,0,1900.0,0
+2026-02-16,P0342,Khakhra 400 g,Bakery & Snacks,40,116.0,15,1,3944.0,0
+2026-02-16,P0368,Green Tea (Loose Leaf) 100 g,Beverages,13,100.0,0,0,1300.0,0
+2026-02-16,P0394,Guava Juice 200 ml,Beverages,23,31.0,0,0,713.0,0
+2026-02-16,P0421,Cornflakes 800 g,Packaged Foods,7,262.0,0,0,1834.0,0
+2026-02-16,P0447,Tomato Puree 200 g,Packaged Foods,14,35.0,0,0,490.0,0
+2026-02-16,P0473,Shampoo 180 ml,Household & Personal Care,37,115.0,0,0,4255.0,0
+2026-02-16,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-02-17,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",56,126.0,0,0,7056.0,0
+2026-02-17,P0027,Besan 500 g,"Rice, Atta & Staples",51,51.0,0,0,2601.0,0
+2026-02-17,P0053,Moong Dal 500 g,Pulses & Dals,51,59.0,0,0,3009.0,0
+2026-02-17,P0079,Moth Beans 500 g,Pulses & Dals,13,52.0,0,0,676.0,0
+2026-02-17,P0106,Sesame Oil 1 L,Edible Oils & Ghee,10,385.0,0,0,3850.0,0
+2026-02-17,P0132,Turmeric Powder 500 g,Spices & Masalas,23,111.0,0,0,2553.0,0
+2026-02-17,P0158,Rasam Powder 100 g,Spices & Masalas,47,39.0,0,0,1833.0,0
+2026-02-17,P0184,Ajwain 100 g,Spices & Masalas,59,52.0,15,1,2607.8,0
+2026-02-17,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,15,40.0,0,0,600.0,0
+2026-02-17,P0237,White Eggs 6 pcs,Dairy & Eggs,16,43.0,0,0,688.0,0
+2026-02-17,P0263,Potato (Loose),Fruits & Vegetables,28,34.0,5,1,904.4,0
+2026-02-17,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-02-17,P0316,Marie Biscuits 500 g,Bakery & Snacks,52,50.0,0,0,2600.0,0
+2026-02-17,P0342,Khakhra 400 g,Bakery & Snacks,38,116.0,0,0,4408.0,0
+2026-02-17,P0368,Green Tea (Loose Leaf) 100 g,Beverages,20,100.0,0,0,2000.0,0
+2026-02-17,P0394,Guava Juice 200 ml,Beverages,21,31.0,0,0,651.0,0
+2026-02-17,P0421,Cornflakes 800 g,Packaged Foods,10,262.0,0,0,2620.0,0
+2026-02-17,P0447,Tomato Puree 200 g,Packaged Foods,13,35.0,0,0,455.0,0
+2026-02-17,P0473,Shampoo 180 ml,Household & Personal Care,60,115.0,15,1,5865.0,0
+2026-02-17,P0500,Razor 3 pcs,Household & Personal Care,4,74.0,0,0,296.0,0
+2026-02-18,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",46,126.0,0,0,5796.0,0
+2026-02-18,P0027,Besan 500 g,"Rice, Atta & Staples",43,51.0,0,0,2193.0,0
+2026-02-18,P0053,Moong Dal 500 g,Pulses & Dals,44,59.0,0,0,2596.0,0
+2026-02-18,P0079,Moth Beans 500 g,Pulses & Dals,14,52.0,0,0,728.0,0
+2026-02-18,P0106,Sesame Oil 1 L,Edible Oils & Ghee,11,385.0,10,1,3811.5,0
+2026-02-18,P0132,Turmeric Powder 500 g,Spices & Masalas,28,111.0,0,0,3108.0,0
+2026-02-18,P0158,Rasam Powder 100 g,Spices & Masalas,51,39.0,0,0,1989.0,0
+2026-02-18,P0184,Ajwain 100 g,Spices & Masalas,47,52.0,0,0,2444.0,0
+2026-02-18,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,14,40.0,0,0,560.0,0
+2026-02-18,P0237,White Eggs 6 pcs,Dairy & Eggs,18,43.0,0,0,774.0,0
+2026-02-18,P0263,Potato (Loose),Fruits & Vegetables,21,34.0,0,0,714.0,0
+2026-02-18,P0289,Button Mushrooms 400 g,Fruits & Vegetables,5,116.0,0,0,580.0,0
+2026-02-18,P0316,Marie Biscuits 500 g,Bakery & Snacks,54,50.0,10,1,2430.0,0
+2026-02-18,P0342,Khakhra 400 g,Bakery & Snacks,31,116.0,0,0,3596.0,0
+2026-02-18,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-02-18,P0394,Guava Juice 200 ml,Beverages,28,31.0,10,1,781.2,0
+2026-02-18,P0421,Cornflakes 800 g,Packaged Foods,9,262.0,0,0,2358.0,0
+2026-02-18,P0447,Tomato Puree 200 g,Packaged Foods,14,35.0,0,0,490.0,0
+2026-02-18,P0473,Shampoo 180 ml,Household & Personal Care,46,115.0,0,0,5290.0,0
+2026-02-18,P0500,Razor 3 pcs,Household & Personal Care,5,74.0,0,0,370.0,0
+2026-02-19,P0001,Basmati Rice 1 kg,"Rice, Atta & Staples",50,126.0,0,0,6300.0,0
+2026-02-19,P0027,Besan 500 g,"Rice, Atta & Staples",51,51.0,10,1,2340.9,0
+2026-02-19,P0053,Moong Dal 500 g,Pulses & Dals,40,59.0,0,0,2360.0,0
+2026-02-19,P0079,Moth Beans 500 g,Pulses & Dals,13,52.0,0,0,676.0,0
+2026-02-19,P0106,Sesame Oil 1 L,Edible Oils & Ghee,8,385.0,0,0,3080.0,0
+2026-02-19,P0132,Turmeric Powder 500 g,Spices & Masalas,27,111.0,0,0,2997.0,0
+2026-02-19,P0158,Rasam Powder 100 g,Spices & Masalas,52,39.0,0,0,2028.0,0
+2026-02-19,P0184,Ajwain 100 g,Spices & Masalas,48,52.0,0,0,2496.0,0
+2026-02-19,P0211,Buttermilk (Chaas) 1 L,Dairy & Eggs,15,40.0,0,0,600.0,0
+2026-02-19,P0237,White Eggs 6 pcs,Dairy & Eggs,15,43.0,15,1,548.25,0
+2026-02-19,P0263,Potato (Loose),Fruits & Vegetables,20,34.0,0,0,680.0,0
+2026-02-19,P0289,Button Mushrooms 400 g,Fruits & Vegetables,6,116.0,0,0,696.0,0
+2026-02-19,P0316,Marie Biscuits 500 g,Bakery & Snacks,41,50.0,0,0,2050.0,0
+2026-02-19,P0342,Khakhra 400 g,Bakery & Snacks,28,116.0,0,0,3248.0,0
+2026-02-19,P0368,Green Tea (Loose Leaf) 100 g,Beverages,18,100.0,0,0,1800.0,0
+2026-02-19,P0394,Guava Juice 200 ml,Beverages,25,31.0,0,0,775.0,0
+2026-02-19,P0421,Cornflakes 800 g,Packaged Foods,13,262.0,0,0,3406.0,0
+2026-02-19,P0447,Tomato Puree 200 g,Packaged Foods,17,35.0,5,1,565.25,0
+2026-02-19,P0473,Shampoo 180 ml,Household & Personal Care,49,115.0,0,0,5635.0,0
+2026-02-19,P0500,Razor 3 pcs,Household & Personal Care,3,74.0,0,0,222.0,0

@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login | AI Inventory Demand Prediction</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="auth-page">
+
+  <header class="topbar auth-topbar">
+    <div class="auth-brand">
+      
+      <h1>AI-Based Inventory Demand Prediction System</h1>
+    </div>
+  </header>
+
+  <main class="auth-layout">
+
+    <section class="auth-intro">
+      <span class="intro-label">SMART INVENTORY MANAGEMENT</span>
+
+      <h2>Make smarter inventory decisions.</h2>
+
+      <p>
+        Analyze inventory, identify products to reorder, and explore sales demand.
+      </p>
+
+
+    </section>
+
+    <section class="panel auth-panel">
+      <h2>Sign in</h2>
+
+      <p class="helper-text">
+        Log in to access your inventory dashboard.
+      </p>
+
+      <form id="loginForm">
+
+        <label class="form-field">
+          Email
+          <input
+            id="email"
+            type="email"
+            autocomplete="username"
+            required>
+        </label>
+
+        <label class="form-field">
+          Password
+          <input
+            id="password"
+            type="password"
+            autocomplete="current-password"
+            required>
+        </label>
+
+        <button type="submit">Login</button>
+
+        <p id="authMessage" class="message" role="status"></p>
+      </form>
+
+      <p class="auth-link">
+        New user?
+        <a href="signup.html">Create a Staff account</a>
+      </p>
+    </section>
+
+  </main>
+
+  <script src="auth.js"></script>
+</body>
+</html>

@@ -1,0 +1,325 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>AI-Based Inventory Demand Prediction System</title>
+
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+  <!-- Dashboard Header -->
+  <header class="topbar dashboard-topbar">
+    <div class="dashboard-brand">
+      <h1>AI-Based Inventory Demand Prediction System</h1>
+    </div>
+
+    <div class="header-actions">
+      <p class="welcome-text">
+        Welcome, <span id="userName">User</span>!
+      </p>
+
+      <button
+        type="button"
+        class="logout-button"
+        id="logoutButton">
+        Logout
+      </button>
+    </div>
+  </header>
+
+  <!-- Dashboard Content -->
+  <main class="container" id="dashboardContent" hidden>
+
+    <!-- Dataset Upload -->
+    <section class="panel upload-panel">
+      <div class="section-heading">
+        <div>
+          <h2>Upload your datasets</h2>
+          <p>
+            Upload inventory and sales data to analyze stock, demand,
+            and replenishment.
+          </p>
+        </div>
+      </div>
+
+      <form id="uploadForm">
+        <div class="upload-grid">
+
+          <label class="file-field">
+            <span>Inventory CSV <strong>(required)</strong></span>
+            <input
+              type="file"
+              id="inventoryFile"
+              accept=".csv"
+              required>
+            <small>
+              Required: Product_ID, Current_Stock, Reorder_Level
+            </small>
+          </label>
+
+          <label class="file-field">
+            <span>Sales CSV <strong>(optional)</strong></span>
+            <input
+              type="file"
+              id="salesFile"
+              accept=".csv">
+            <small>For sales analysis and demand forecasting.</small>
+          </label>
+
+        </div>
+
+        <div class="actions">
+          <button type="submit" id="analyzeButton">
+            Analyze datasets
+          </button>
+
+          <button
+            type="button"
+            class="button-secondary"
+            id="clearButton">
+            Clear results
+          </button>
+        </div>
+      </form>
+
+      <p id="message" class="message" role="status"></p>
+    </section>
+
+    <!-- Summary Metrics -->
+    <section class="metrics-grid" aria-label="Summary metrics">
+
+      <article class="metric-card">
+        <p>Inventory products</p>
+        <strong id="productCount">—</strong>
+      </article>
+
+      <article class="metric-card">
+        <p>Products to reorder</p>
+        <strong id="reorderCount">—</strong>
+      </article>
+
+      <article class="metric-card">
+        <p>Total units in stock</p>
+        <strong id="stockTotal">—</strong>
+      </article>
+
+      <article class="metric-card">
+        <p>Total units sold</p>
+        <strong id="unitsSold">—</strong>
+      </article>
+
+    </section>
+
+    <!-- Stock Replenishment -->
+    <section class="panel">
+      <div class="section-heading">
+        <div>
+          <h2>Stock replenishment list</h2>
+          <p>Products at or below their reorder level.</p>
+        </div>
+
+        <button
+          type="button"
+          class="button-secondary"
+          id="downloadReorder"
+          disabled>
+          Download CSV
+        </button>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr id="reorderHead"></tr>
+          </thead>
+
+          <tbody id="reorderBody">
+            <tr>
+              <td class="empty" colspan="7">
+                Upload an inventory CSV to view recommendations.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- Top and Low Selling Products -->
+    <section class="two-column">
+
+      <section class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Top-selling products</h2>
+            <p>Based on uploaded sales records.</p>
+          </div>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Product ID</th>
+                <th>Product name</th>
+                <th>Units sold</th>
+              </tr>
+            </thead>
+
+            <tbody id="topBody">
+              <tr>
+                <td class="empty" colspan="3">
+                  Sales data not uploaded.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="section-heading">
+          <div>
+            <h2>Low-selling products</h2>
+            <p>Products with the lowest total sales.</p>
+          </div>
+        </div>
+
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Product ID</th>
+                <th>Product name</th>
+                <th>Units sold</th>
+              </tr>
+            </thead>
+
+            <tbody id="lowBody">
+              <tr>
+                <td class="empty" colspan="3">
+                  Sales data not uploaded.
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+    </section>
+
+    <!-- Sales Charts -->
+    <section class="two-column">
+
+      <section class="panel chart-panel">
+        <div class="section-heading">
+          <div>
+            <h2>Top 10 products by sales</h2>
+            <p>Requires a sales CSV.</p>
+          </div>
+        </div>
+
+        <canvas id="topChart"></canvas>
+      </section>
+
+      <section class="panel chart-panel">
+        <div class="section-heading">
+          <div>
+            <h2>Daily sales trend</h2>
+            <p>Total units sold per date.</p>
+          </div>
+        </div>
+
+        <canvas id="trendChart"></canvas>
+      </section>
+
+    </section>
+
+    <!-- Admin-Only Profit Insights -->
+    <section id="profitSection" class="panel" hidden>
+
+      <div class="section-heading">
+        <div>
+          <h2>Profit Insights</h2>
+          <p>Admin-only historical gross profit analysis.</p>
+        </div>
+
+        <span class="admin-badge">ADMIN ONLY</span>
+      </div>
+
+      <div class="metrics-grid profit-metrics">
+
+        <article class="metric-card">
+          <p>Total gross profit</p>
+          <strong id="grossProfit">—</strong>
+        </article>
+
+        <article class="metric-card">
+          <p>Profit margin</p>
+          <strong id="profitMargin">—</strong>
+        </article>
+
+        <article class="metric-card">
+          <p>Total revenue</p>
+          <strong id="profitRevenue">—</strong>
+        </article>
+
+        <article class="metric-card">
+          <p>Cost of goods sold</p>
+          <strong id="profitCost">—</strong>
+        </article>
+
+      </div>
+
+      <div class="section-heading profit-table-heading">
+        <div>
+          <h2>Top 10 Most Profitable Products</h2>
+          <p>Ranked by total gross profit, not by sales volume.</p>
+        </div>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Product ID</th>
+              <th>Product name</th>
+              <th>Units sold</th>
+              <th>Gross profit (₹)</th>
+              <th>Profit margin</th>
+            </tr>
+          </thead>
+
+          <tbody id="profitTableBody">
+            <tr>
+              <td class="empty" colspan="6">
+                Upload inventory and sales CSVs to calculate profit insights.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p id="profitMessage" class="message" role="status"></p>
+    </section>
+
+  </main>
+
+  <!-- Dashboard Footer -->
+  <footer class="dashboard-footer">
+    <p class="footer-title">
+      AI-Based Inventory Demand Prediction System @ 2026
+    </p>
+
+    
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
